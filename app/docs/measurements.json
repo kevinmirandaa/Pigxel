@@ -1,0 +1,864 @@
+{
+  "measures": {
+    "Botón de vidrio · símbolo (pestañas)": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Button - Liquid Glass - Symbol",
+        "w": 50,
+        "h": 50,
+        "x": 325,
+        "y": 40
+      }
+    ],
+    "Botón de vidrio · atrás": [
+      {
+        "screen": "add-categoria",
+        "name": "Button - Liquid Glass - Symbol",
+        "w": 50,
+        "h": 50,
+        "x": 20,
+        "y": 20
+      }
+    ],
+    "Botón de vidrio · Volver (detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Volver",
+        "w": 50,
+        "h": 50,
+        "x": 20,
+        "y": 20
+      }
+    ],
+    "Botón de vidrio · Crear \"+\" (detalle)": [
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Crear",
+        "w": 50,
+        "h": 50,
+        "x": 325,
+        "y": 20
+      }
+    ],
+    "Título de pantalla (detalle)": [
+      {
+        "screen": "ajustes-limite",
+        "name": "Título",
+        "w": 330,
+        "h": 35,
+        "x": 36,
+        "y": 98
+      }
+    ],
+    "Título de pantalla (Agregar/Nueva…)": [
+      {
+        "screen": "add-cuenta",
+        "name": "Nueva cuenta",
+        "w": 211,
+        "h": 27,
+        "x": 45,
+        "y": 98
+      }
+    ],
+    "Título de pestaña (Actividad)": [
+      {
+        "screen": "tab-actividad",
+        "name": "Actividad",
+        "w": 162,
+        "h": 27,
+        "x": 39,
+        "y": 45
+      }
+    ],
+    "Título de pestaña (Pigxel)": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Pigxel",
+        "w": 93,
+        "h": 27,
+        "x": 39,
+        "y": 45
+      }
+    ],
+    "Saldo grande (64)": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "¢ 830.000",
+        "w": 323,
+        "h": 86,
+        "x": 39,
+        "y": 124
+      }
+    ],
+    "Etiqueta \"Saldo total\"": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Saldo total",
+        "w": 274,
+        "h": 27,
+        "x": 64,
+        "y": 220
+      }
+    ],
+    "Tarjeta de fila 330×74 (Agregar)": [
+      {
+        "screen": "add-menu",
+        "name": "Rectangle 32",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 175
+      },
+      {
+        "screen": "add-menu",
+        "name": "Rectangle 33",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 267
+      },
+      {
+        "screen": "add-menu",
+        "name": "Rectangle 34",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 359
+      },
+      {
+        "screen": "add-menu",
+        "name": "Rectangle 35",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 451
+      }
+    ],
+    "Tarjeta de fila 330×74 (Actividad)": [
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 34",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 483
+      },
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 35",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 591
+      },
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 36",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 671
+      },
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 37",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 751
+      }
+    ],
+    "Tarjeta de fila 330×74 (Objetivos)": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Rectangle 32",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 417
+      },
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Rectangle 33",
+        "w": 330,
+        "h": 74,
+        "x": 36,
+        "y": 501
+      }
+    ],
+    "Emoji de fila 35×35": [
+      {
+        "screen": "tab-actividad",
+        "name": "2239 1",
+        "w": 35,
+        "h": 35,
+        "x": 52,
+        "y": 501
+      },
+      {
+        "screen": "tab-actividad",
+        "name": "1635 1",
+        "w": 35,
+        "h": 35,
+        "x": 52,
+        "y": 688
+      },
+      {
+        "screen": "tab-actividad",
+        "name": "62 1",
+        "w": 35,
+        "h": 35,
+        "x": 52,
+        "y": 610
+      },
+      {
+        "screen": "tab-actividad",
+        "name": "2112 1",
+        "w": 35,
+        "h": 35,
+        "x": 52,
+        "y": 765
+      }
+    ],
+    "Campo en píldora (fondo + trazo)": [
+      {
+        "screen": "auth-iniciar-sesion",
+        "name": "Rectangle 3",
+        "w": 330,
+        "h": 60,
+        "x": 36,
+        "y": 234
+      }
+    ],
+    "Campo en píldora (Agregar)": [
+      {
+        "screen": "add-cuenta",
+        "name": "Rectangle 14",
+        "w": 330,
+        "h": 60,
+        "x": 36,
+        "y": 172
+      }
+    ],
+    "Botón negro con flecha": [
+      {
+        "screen": "add-categoria",
+        "name": "Rectangle 3",
+        "w": 330,
+        "h": 60,
+        "x": 36,
+        "y": 440
+      }
+    ],
+    "Botón negro con flecha (flecha)": [
+      {
+        "screen": "add-categoria",
+        "name": "Vector",
+        "w": 15,
+        "h": 14.166666030883789,
+        "x": 329,
+        "y": 463
+      }
+    ],
+    "Control segmentado (contenedor)": [
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 17",
+        "w": 253,
+        "h": 48,
+        "x": 39,
+        "y": 98
+      }
+    ],
+    "Control segmentado (activa)": [
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 18",
+        "w": 85,
+        "h": 44,
+        "x": 42,
+        "y": 100
+      }
+    ],
+    "Control segmentado · etiquetas": [
+      {
+        "screen": "tab-actividad",
+        "name": "Gastos",
+        "w": 52,
+        "h": 18,
+        "x": 59,
+        "y": 113
+      }
+    ],
+    "Buscador": [
+      {
+        "screen": "tab-actividad",
+        "name": "Rectangle 25",
+        "w": 351,
+        "h": 53,
+        "x": 32,
+        "y": 384
+      }
+    ],
+    "Subrayado de pestañas (Cuentas/Objetivos)": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Line 2",
+        "w": 50,
+        "h": 0,
+        "x": 234,
+        "y": 382
+      }
+    ],
+    "Pestañas Cuentas / Objetivos (texto)": [
+      {
+        "screen": "tab-cuentas-objetivos",
+        "name": "Cuentas",
+        "w": 115,
+        "h": 27,
+        "x": 86,
+        "y": 352
+      }
+    ],
+    "Círculo disparador de emoji": [
+      {
+        "screen": "add-categoria",
+        "name": "Rectangle 15",
+        "w": 80,
+        "h": 80,
+        "x": 160,
+        "y": 172
+      }
+    ],
+    "Círculo del emoji (glifo)": [
+      {
+        "screen": "add-categoria",
+        "name": "Group",
+        "w": 33.33333206176758,
+        "h": 33.33333206176758,
+        "x": 183,
+        "y": 195
+      }
+    ],
+    "Ícono de encabezado (detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Icono",
+        "w": 56,
+        "h": 56,
+        "x": 173,
+        "y": 157
+      }
+    ],
+    "Descripción bajo el ícono (detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Descripción",
+        "w": 330,
+        "h": 38,
+        "x": 36,
+        "y": 223
+      }
+    ],
+    "Tarjeta de ajustes (detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Tarjeta",
+        "w": 330,
+        "h": 407,
+        "x": 36,
+        "y": 281
+      }
+    ],
+    "Fila de ajustes (detalle · con ícono)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Opción",
+        "w": 330,
+        "h": 68,
+        "x": 36,
+        "y": 281
+      },
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Opción",
+        "w": 330,
+        "h": 68,
+        "x": 36,
+        "y": 349
+      },
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Opción",
+        "w": 330,
+        "h": 68,
+        "x": 36,
+        "y": 417
+      }
+    ],
+    "Ícono en caja de la fila (detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Icono",
+        "w": 44,
+        "h": 44,
+        "x": 48,
+        "y": 292.5
+      },
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Icono",
+        "w": 44,
+        "h": 44,
+        "x": 48,
+        "y": 360.5
+      }
+    ],
+    "Chevron de fila (detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "chevron-right",
+        "w": 14,
+        "h": 14,
+        "x": 340,
+        "y": 307.5
+      }
+    ],
+    "Divisor de fila con ícono": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Divisor",
+        "w": 270,
+        "h": 1,
+        "x": 96,
+        "y": 348
+      },
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Divisor",
+        "w": 270,
+        "h": 1,
+        "x": 96,
+        "y": 416
+      }
+    ],
+    "Divisor de fila sin ícono": [
+      {
+        "screen": "ajustes-moneda",
+        "name": "Divisor",
+        "w": 310,
+        "h": 1,
+        "x": 56,
+        "y": 503
+      },
+      {
+        "screen": "ajustes-moneda",
+        "name": "Divisor",
+        "w": 310,
+        "h": 1,
+        "x": 56,
+        "y": 571
+      }
+    ],
+    "Fila de ajustes con interruptor": [
+      {
+        "screen": "ajustes-notificaciones",
+        "name": "Opción",
+        "w": 330,
+        "h": 68,
+        "x": 36,
+        "y": 262
+      },
+      {
+        "screen": "ajustes-notificaciones",
+        "name": "Opción",
+        "w": 330,
+        "h": 68,
+        "x": 36,
+        "y": 330
+      }
+    ],
+    "Interruptor (encendido)": [
+      {
+        "screen": "ajustes-limite",
+        "name": "Activado",
+        "w": 50,
+        "h": 30,
+        "x": 304,
+        "y": 333.5
+      }
+    ],
+    "Interruptor (perilla)": [
+      {
+        "screen": "ajustes-limite",
+        "name": "Control",
+        "w": 26,
+        "h": 26,
+        "x": 326,
+        "y": 335.5
+      }
+    ],
+    "Interruptor (apagado)": [
+      {
+        "screen": "ajustes-notificaciones",
+        "name": "Desactivado",
+        "w": 50,
+        "h": 30,
+        "x": 304,
+        "y": 484.5
+      }
+    ],
+    "Campo de información (detalle)": [
+      {
+        "screen": "ajustes-informacion-personal",
+        "name": "Campo",
+        "w": 330,
+        "h": 73,
+        "x": 36,
+        "y": 318
+      },
+      {
+        "screen": "ajustes-informacion-personal",
+        "name": "Campo",
+        "w": 330,
+        "h": 73,
+        "x": 36,
+        "y": 391
+      }
+    ],
+    "Texto del campo (etiqueta + valor)": [
+      {
+        "screen": "ajustes-informacion-personal",
+        "name": "Texto",
+        "w": 290,
+        "h": 40,
+        "x": 56,
+        "y": 334
+      }
+    ],
+    "Caja informativa (Límite)": [
+      {
+        "screen": "ajustes-limite",
+        "name": "Aviso de límite",
+        "w": 330,
+        "h": 89,
+        "x": 36,
+        "y": 649
+      }
+    ],
+    "Caja informativa · ícono": [
+      {
+        "screen": "ajustes-limite",
+        "name": "info",
+        "w": 18,
+        "h": 18,
+        "x": 52,
+        "y": 665
+      }
+    ],
+    "Caja informativa · texto": [
+      {
+        "screen": "ajustes-limite",
+        "name": "Descripción",
+        "w": 270,
+        "h": 57,
+        "x": 80,
+        "y": 665
+      }
+    ],
+    "Objetivo (tarjeta)": [
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Objetivo",
+        "w": 330,
+        "h": 176,
+        "x": 36,
+        "y": 196
+      }
+    ],
+    "Objetivo · barra (pista)": [
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Barra",
+        "w": 290,
+        "h": 6,
+        "x": 56,
+        "y": 325
+      },
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Barra",
+        "w": 290,
+        "h": 6,
+        "x": 56,
+        "y": 513
+      }
+    ],
+    "Objetivo · barra (avance)": [
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Avance",
+        "w": 58,
+        "h": 6,
+        "x": 56,
+        "y": 325
+      },
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Avance",
+        "w": 168.1999969482422,
+        "h": 6,
+        "x": 56,
+        "y": 513
+      }
+    ],
+    "Objetivo · porcentaje": [
+      {
+        "screen": "ajustes-objetivos",
+        "name": "Porcentaje",
+        "w": 290,
+        "h": 14,
+        "x": 56,
+        "y": 338
+      }
+    ],
+    "Código OTP · casilla visible": [
+      {
+        "screen": "auth-codigo-verificacion",
+        "name": "Rectangle 15",
+        "w": 49,
+        "h": 77,
+        "x": 95,
+        "y": 339
+      }
+    ],
+    "Código OTP · cursor": [
+      {
+        "screen": "auth-codigo-verificacion",
+        "name": "l",
+        "w": 9,
+        "h": 48,
+        "x": 62,
+        "y": 354
+      }
+    ],
+    "Código OTP · texto de reenvío": [
+      {
+        "screen": "auth-codigo-verificacion",
+        "name": "¿No recibiste el código? Reenviar en 00:59",
+        "w": 347,
+        "h": 19,
+        "x": 27,
+        "y": 459
+      }
+    ],
+    "Estado vacío · ícono": [
+      {
+        "screen": "notificaciones",
+        "name": "Group",
+        "w": 41,
+        "h": 37.81630325317383,
+        "x": 180,
+        "y": 384
+      }
+    ],
+    "Estado vacío · texto": [
+      {
+        "screen": "notificaciones",
+        "name": "Información",
+        "w": 266,
+        "h": 82,
+        "x": 68,
+        "y": 451
+      }
+    ],
+    "Gráfica de línea (imagen)": [
+      {
+        "screen": "tab-actividad",
+        "name": "Screenshot 2026-10-04 at 7.19.42 PM 1",
+        "w": 312,
+        "h": 124,
+        "x": 45,
+        "y": 238
+      }
+    ],
+    "Tab bar (flotante, pantallas de detalle)": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Barra inferior",
+        "w": 249,
+        "h": 61,
+        "x": 76,
+        "y": 798
+      }
+    ],
+    "Tab bar · fondo de vidrio": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Fondo Liquid Glass",
+        "w": 249,
+        "h": 61,
+        "x": 76,
+        "y": 798
+      }
+    ],
+    "Tab bar · pestaña seleccionada": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Ajustes seleccionado",
+        "w": 85,
+        "h": 61,
+        "x": 240,
+        "y": 798
+      }
+    ],
+    "Tab bar · ícono Wallet": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Wallet",
+        "w": 25,
+        "h": 23,
+        "x": 106,
+        "y": 816
+      }
+    ],
+    "Tab bar · ícono Actividad": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Actividad",
+        "w": 22.5,
+        "h": 22.5,
+        "x": 190,
+        "y": 816
+      }
+    ],
+    "Tab bar · ícono Ajustes": [
+      {
+        "screen": "ajustes-ayuda",
+        "name": "Ajustes",
+        "w": 25,
+        "h": 25,
+        "x": 272,
+        "y": 816
+      }
+    ],
+    "Fila de ajustes principal (caja 50)": [
+      {
+        "screen": "tab-ajustes",
+        "name": "Rectangle 48",
+        "w": 50,
+        "h": 50,
+        "x": 47,
+        "y": 140
+      }
+    ]
+  },
+  "samples": {
+    "card.fill": "#FFFFFF",
+    "card.border": "#EAEAEA",
+    "card.borderWidth": "1",
+    "card.radius": "20",
+    "screen.auth.bg": "#FFFFFF",
+    "field.auth.fill": "#F0F0F0",
+    "field.auth.border": "#EAEAEA",
+    "field.auth.radius": "27.3",
+    "field.icon.color": "#C1C1C1",
+    "field.icon.size": "20×20 @ x=60",
+    "field.form.fill": "#FFFFFF",
+    "field.form.border": "#EAEAEA",
+    "field.form.radius": "27.3",
+    "field.placeholder.color": "#C1C1C1",
+    "field.placeholder.size": "15.7",
+    "field.auth.placeholder.color": "#C1C1C1",
+    "primaryButton.fill": "#000000",
+    "primaryButton.radius": "29.6",
+    "primaryButton.text.color": "#FFFFFF",
+    "primaryButton.text.size": "20.3",
+    "segmented.fill": "#F0F0F0",
+    "segmented.border": "#EAEAEA",
+    "segmented.active.fill": "#FFFFFF",
+    "segmented.radius": "21.6",
+    "segmented.label.active": "#000000",
+    "segmented.label.inactive": "#8F8F8F",
+    "segmented.label.size": "13.4",
+    "search.fill": "#EBEBEB",
+    "search.border": "#EAEAEA",
+    "emojiCircle.size": "80×80",
+    "emojiCircle.fill": "#FFFFFF",
+    "emojiCircle.border": "#EAEAEA",
+    "emojiCircle.glyph.color": "#C1C1C1",
+    "emojiCircle.glyph.size": "33.3×33.3",
+    "headerIcon.fill": "#EBEBEB",
+    "headerIcon.radius": "15.9",
+    "rowIcon.fill": "#F4F4F4",
+    "detail.title.color": "#000000",
+    "detail.title.size": "32.2",
+    "detail.title.size.check": "31.8",
+    "detail.description.color": "#8F8F8F",
+    "detail.description.size": "13.8",
+    "detail.row.label.color": "#000000",
+    "detail.row.label.size": "16.1",
+    "detail.row.detail.color": "#8F8F8F",
+    "detail.row.detail.size": "12",
+    "divider.color": "#EAEAEA",
+    "chevron.color": "#C1C1C1",
+    "rowIcon.glyph.color": "#000000",
+    "field.info.label.color": "#8F8F8F",
+    "field.info.label.size": "12.9",
+    "field.info.value.color": "#000000",
+    "field.info.value.size": "16.6",
+    "toggle.on.fill": "#34C759",
+    "toggle.knob.fill": "#FFFFFF",
+    "toggle.size": "50×30 (perilla 26)",
+    "toggle.off.fill": "#E9E9EB",
+    "progress.track": "#E9E9EB",
+    "progress.fill": "#007FFF",
+    "progress.height": "6 (radio 3)",
+    "progress.percent.color": "#8F8F8F",
+    "progress.percent.size": "12",
+    "goalAmount.blue": "#007FFF",
+    "goalSaved.color": "#000000",
+    "goalTarget.color": "#007FFF",
+    "goalLabel.color": "#8F8F8F",
+    "goalLabel.size": "12",
+    "infoNote.fill": "#EAF8EE",
+    "infoNote.border": "#F4F4F4",
+    "infoNote.radius": "20.5",
+    "infoNote.text.color": "#308548",
+    "infoNote.text.size": "13.8",
+    "infoNote.icon.color": "#308548",
+    "otp.cells (x0→x1 · ancho)": "42→90 · 48 | 95→144 · 49 | 149→198 · 49 | 203→252 · 49 | 257→305 · 48 | 310→359 · 49",
+    "otp.cell.fill": "#EAEAEA",
+    "otp.cell.size": "49×77",
+    "otp.cell.radius": "14.8",
+    "otp.resend.size": "16.1",
+    "auth.title.size": "40.1",
+    "auth.title.color": "#000000",
+    "auth.subtitle.color": "#8F8F8F",
+    "auth.subtitle.size": "20.3",
+    "empty.icon.color": "#C1C1C1",
+    "empty.title.color": "#000000",
+    "empty.title.size": "18.4",
+    "empty.detail.color": "#C1C1C1",
+    "empty.detail.size": "13.8",
+    "empty.layout": "bloque de texto 266×82 @ (68, 451); ícono 41×37.8 @ (180, 384)",
+    "mainTab.balanceLabel.color": "#8F8F8F",
+    "mainTab.inactiveTab.color": "#8F8F8F",
+    "mainTab.activeTab.color": "#000000",
+    "row.subtitle.color": "#8F8F8F",
+    "amount.expense.color": "#FF0000",
+    "amount.income.color": "#65CA60",
+    "sectionLabel.color": "#8F8F8F",
+    "sectionLabel.size": "13.8",
+    "activity.caption.color": "#8F8F8F",
+    "settingsMenu.sectionTitle.size": "20.3",
+    "chart.line.color": "#262626",
+    "chart.area.fill": "#F6F6F6",
+    "chart.size": "312×124 @ (45, 238)",
+    "glass.reference": "388×1058 px (≈ 0.97x)",
+    "glass.pill.profile(x=centro de \"Ingreso\", y 258→322)": "258–264pt #F4F4F4 · 264.5–265pt #EEEEEE · 265.5–266pt #F4F4F4 · 266.5–267pt #F7F7F7 · 267.5–268pt #F3F3F3 · 268.5–269pt #F0F0F0 · 269.5–270pt #EFEFEF · 270.5–272pt #EDEDED · 272.5–274.5pt #EBEBEB · 275–275.5pt #ECECEC · 276–277.5pt #EDEDED · 278–279.5pt #EEEEEE · 280–281.5pt #EFEFEF · 282–282.5pt #F0F0F0 · 283–284.5pt #F1F1F1 · 285–286.5pt #F2F2F2 · 287–288pt #C3C3C3 · 288.5–289pt #969696 · 289.5–290pt #ACACAC · 290.5–291pt #B4B4B4 · 291.5–292pt #999999 · 292.5–293pt #8F8F8F · 293.5–294pt #959595 · 294.5–295pt #ABABAB · 295.5–296pt #DEDEDE · 296.5–297pt #F2F2F2 · 297.5–300pt #F3F3F3 · 300.5–306.5pt #F4F4F4 · 307–307.5pt #F5F5F5 · 308–308.5pt #F6F6F6 · 309–309.5pt #F7F7F7 · 310–310.5pt #F8F8F8 · 311–311.5pt #FBFBFB · 312–312.5pt #FDFDFD · 313–314.5pt #FFFFFF · 315–316pt #F6F6F6 · 316.5–317pt #EDEDED · 317.5–321pt #F0F0F0 · 321.5–322pt #F1F1F1",
+    "glass.tabBar.profile(x=200, y 975→1050)": "975–985pt #F4F4F4 · 985.5–986pt #EDEDED · 986.5–987pt #F5F5F5 · 987.5–988pt #F6F6F6 · 988.5–989pt #F2F2F2 · 989.5–990pt #F0F0F0 · 990.5–991.5pt #EFEFEF · 992–992.5pt #EDEDED · 993–994.5pt #ECECEC · 995–996.5pt #EBEBEB · 997–997.5pt #ECECEC · 998–998.5pt #EDEDED · 999–1000.5pt #EEEEEE · 1001–1002.5pt #EFEFEF · 1003–1004.5pt #F0F0F0 · 1005–1006pt #F1F1F1 · 1006.5–1010pt #F2F2F2 · 1010.5–1012pt #F3F3F3 · 1012.5–1013pt #EDEDED · 1013.5–1014pt #D2D2D2 · 1014.5–1015pt #C3C3C3 · 1015.5–1027.5pt #C1C1C1 · 1028–1028.5pt #D5D5D5 · 1029–1029.5pt #EDEDED · 1030–1038pt #F4F4F4 · 1038.5–1040pt #F5F5F5 · 1040.5–1041pt #F6F6F6 · 1041.5–1042pt #F7F7F7 · 1042.5–1043pt #F8F8F8 · 1043.5–1044pt #FBFBFB · 1044.5–1045pt #FDFDFD · 1045.5–1047pt #FFFFFF · 1047.5–1048.5pt #F2F2F2 · 1049–1049.5pt #EEEEEE · 1050–1050pt #EFEFEF",
+    "glass.tabBar.activeProfile(x=118, y 975→1050)": "975–985pt #F4F4F4 · 985.5–986pt #E7E7E7 · 986.5–987pt #F1F1F1 · 987.5–988pt #F4F4F4 · 988.5–989pt #F0F0F0 · 989.5–990pt #EEEEEE · 990.5–991.5pt #ECECEC · 992–992.5pt #EBEBEB · 993–993.5pt #EAEAEA · 994–996.5pt #E9E9E9 · 997–997.5pt #EAEAEA · 998–998.5pt #EBEBEB · 999–1000.5pt #ECECEC · 1001–1003.5pt #EDEDED · 1004–1004.5pt #EEEEEE · 1005–1007pt #EFEFEF · 1007.5–1008pt #EAEAEA · 1008.5–1009pt #656565 · 1009.5–1010pt #A7A7A7 · 1010.5–1011pt #A6A6A6 · 1011.5–1012pt #282828 · 1012.5–1028.5pt #000000 · 1029–1029.5pt #838383 · 1030–1030.5pt #E2E2E2 · 1031–1038pt #F3F3F3 · 1038.5–1039pt #F4F4F4 · 1039.5–1041pt #F5F5F5 · 1041.5–1042pt #F6F6F6 · 1042.5–1043pt #F8F8F8 · 1043.5–1044pt #FAFAFA · 1044.5–1045pt #FDFDFD · 1045.5–1047pt #FFFFFF · 1047.5–1048.5pt #EAEAEA · 1049–1049.5pt #E6E6E6 · 1050–1050pt #ECECEC",
+    "glass.button.profile(x=367, y 30→100)": "30–38pt #F4F4F4 · 38.5–39pt #F1F1F1 · 39.5–40pt #F6F6F6 · 40.5–41pt #F3F3F3 · 41.5–42pt #F0F0F0 · 42.5–43.5pt #EFEFEF · 44–44.5pt #EDEDED · 45–45.5pt #ECECEC · 46–46.5pt #EBEBEB · 47–47.5pt #EAEAEA · 48–48.5pt #EBEBEB · 49–50.5pt #ECECEC · 51–52.5pt #EDEDED · 53–53.5pt #EEEEEE · 54–54.5pt #BCBCBC · 55–55.5pt #141414 · 56–72.5pt #000000 · 73–73.5pt #424242 · 74–74.5pt #DEDEDE · 75–75.5pt #F3F3F3 · 76–80.5pt #F4F4F4 · 81–81.5pt #F5F5F5 · 82–82.5pt #F7F7F7 · 83–83.5pt #F8F8F8 · 84–84.5pt #F9F9F9 · 85–85.5pt #FCFCFC · 86–89pt #FFFFFF · 89.5–90pt #F1F1F1 · 90.5–91pt #EDEDED · 91.5–92pt #F0F0F0 · 92.5–94pt #F1F1F1 · 94.5–98pt #F2F2F2 · 98.5–100pt #F3F3F3"
+  }
+}

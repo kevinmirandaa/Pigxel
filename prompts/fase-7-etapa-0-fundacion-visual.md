@@ -1,0 +1,31 @@
+# Fase 7 · Etapa 0: fundación visual (design-system pixel-exacto)
+
+Requisito: Fase 6 etapa 3 terminada (backend completo). **No ejecutes esto a la vez que otra sesión edite el proyecto.** Lee `app/ARCHITECTURE.md` y `design-spec/README.md` completos antes de empezar.
+
+## Reglas
+- Prohibido modificar `design-spec/` y `prompts/`, y borrar nada de `app/assets/` (sí puedes añadir archivos). Puedes crear `app/docs/`.
+- El objetivo es **fidelidad total al Figma**: mismas medidas, colores, tipografía y jerarquía. No inventes, no reordenes, no "mejores" nada. Las diferencias menores del Figma se replican tal cual.
+- **Todo debe funcionar en Expo Go** (el cliente probará ahí, sin gastar dinero ni compilar). Usa solo módulos incluidos en Expo Go; si alguna dependencia no lo está, avísalo y propón alternativa.
+- `EXPO_PUBLIC_DATA_SOURCE` se queda en `mock`. No construyas las 36 pantallas todavía (eso son las etapas 7.1+): aquí solo el sistema de componentes y una galería para revisarlos.
+- El MCP de Figma NO está disponible. Fuentes de diseño: `design-spec/app-screens/*.png` (aspecto real, con vidrio), `design-spec/screens/*.png` (3x, medidas), `design-spec/figma-metadata.xml` (tamaños y posiciones exactas), `design-spec/overlays.md`, `design-spec/tokens.md`, `design-spec/source/Pigxel.svg`.
+
+## 1. Medidas exactas (antes de escribir componentes)
+Escribe un script (`app/scripts/extract-measurements.ts`) que lea `figma-metadata.xml` y genere `app/docs/measurements.md` con, por tipo de componente (tarjeta de fila, fila de ajustes, campo en píldora, botón negro, control segmentado, buscador, tab bar y sus piezas, botones de vidrio, círculo de emoji, barra de progreso, interruptor, encabezados y títulos), sus ancho/alto/radio/posición relativa observados en las pantallas donde aparecen. Cuando una medida no salga del XML, **muestrea la captura** (`design-spec/screens/*.png` a 3x) con un script de Node (p. ej. `pngjs`, solo devDependency) para obtener colores (relleno, borde, texto) y dimensiones, y deja el resultado documentado. Colores que NO están en `tokens.md` y debes muestrear: azul del progreso de objetivos y de los montos "Objetivo", verde del interruptor y de la caja informativa en Límite, gris del círculo del emoji, sombras del vidrio. Actualiza `src/design-system/tokens/*` con todo lo verificado.
+
+## 2. Componentes (en `src/design-system/components/`)
+Revisa los stubs existentes y llévalos a pixel-exacto. Todos con props tipadas y accesibilidad (`accessibilityRole`, labels en español, áreas táctiles ≥ 44 pt).
+- **GlassButton** (símbolo 50×50: atrás, campana, +, filtro; y variante texto para píldoras *Ingreso / Gasto / Consulta*): Liquid Glass con `expo-glass-effect` en iOS que lo soporte; respaldo translúcido claro (blur/blanco semitransparente con borde sutil y sombra suave) en el resto. Comprueba en tiempo de ejecución si el efecto está disponible y no falles si no lo está.
+- **FloatingTabBar** (píldora de vidrio 249×61, pestaña activa de 85×61 con ícono negro, inactivas en gris), integrada con expo-router `(tabs)`; posición inferior flotante respetando el safe area. Los íconos wallet/bars/layers deben salir de **una sola fuente SVG recoloreable**: convierte los SVG de `assets/icons/**` a componentes con `currentColor` (SVGR o equivalente, sin romper `react-native-svg-transformer`) para tener el estado activo (negro) e inactivo (gris) sin duplicar archivos. Si el SVG de un tab activo no existe en `assets/`, extráelo de `design-spec/source/Pigxel.svg`.
+- **ScreenHeader** (botón atrás de vidrio + título 32 Bold, variantes con "+" a la derecha), **Screen** (fondo `#F4F4F4`, safe areas, scroll con padding inferior para no quedar bajo el tab bar), **Card**, **ListRow** (emoji 35, título 18 Bold, subtítulo 14 Regular gris, monto a la derecha; rojo/verde solo en montos), **SettingsRow** (+ **SettingsGroup** con separadores desde x=99 y chevron), **Segmented** (2–3 opciones, activa blanca), **TabsUnderline** (Cuentas/Objetivos con subrayado), **PillInput** (con ícono opcional, ojo de contraseña, estado de error), **PrimaryButton** (negro con flecha, estados cargando y deshabilitado), **Toggle** (iOS), **ProgressBar** (azul), **LineChart** (react-native-svg, curva suave, punto y tooltip `¢18.500` sobre el día, ejes Lun–Dom, mismo aspecto que `design-spec/reference/chart-placeholder.png`), **SectionTitle**, **InfoNote** (caja verde de Límite), **OtpInput** (6 casillas), **EmptyState** (ícono + título + texto, como "Sin notificaciones").
+- **EmojiPicker / EmojiBadge / círculo disparador** ya existen: ajusta el disparador para que su aspecto coincida con la carita de `design-spec/app-screens/add-categoria.png` (extrae ese SVG de `source/Pigxel.svg` si hace falta; reemplaza la aproximación ☺︎).
+- Fuente: aplica `typography.ts` (SF Pro Rounded vía `ui-rounded` en iOS, Nunito en Android) y carga Nunito solo en Android. Deja un indicador en la galería que muestre qué fuente quedó activa.
+- Formato de dinero: usa `formatCurrency` (`¢ 830.000`, `-¢18.000`, `+¢718.000`) en todos los montos; el saldo grande de 64 pt debe ajustarse (`adjustsFontSizeToFit`) para números largos sin salirse.
+
+## 3. Galería de revisión
+Crea `src/app/_dev/gallery.tsx` (solo disponible con `__DEV__`; no debe quedar enlazada en la navegación normal) que muestre TODOS los componentes y sus estados en una sola pantalla con scroll, agrupados y rotulados, para que el cliente la abra en Expo Go y la compare con el Figma. Añade en `app/index` (solo en `__DEV__`) un acceso discreto a la galería. Documenta en `ARCHITECTURE.md` cómo abrirla.
+
+## 4. Verificación
+`npx tsc --noEmit`, `npm run lint`, `npx prettier --check .`, `npm run test:unit`, `npx expo-doctor`, `npx expo export` (iOS y Android) y arranque con `npx expo start`. Genera `app/docs/fidelity-components.md`: una tabla con cada componente, medida/color del Figma, valor implementado y fuente del dato.
+
+## Resumen final (formato exacto)
+(a) archivos creados/modificados, (b) colores y medidas nuevos que muestreaste (tabla), (c) cómo resolviste el vidrio en iOS ≥26, iOS anterior y Android, (d) dependencias añadidas y si todas son compatibles con Expo Go, (e) problemas y cómo se resolvieron, (f) resultado de cada verificación, (g) desviaciones, dudas de diseño que requieran decisión del cliente y qué debe revisar él en la galería.

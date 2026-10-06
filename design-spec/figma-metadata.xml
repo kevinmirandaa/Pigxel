@@ -1,0 +1,1619 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <frame id="2004:12859" name="Ayuda" x="14620" y="0" width="402" height="874">
+    <instance id="2004:12860" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:12873" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12874" name="Contenido" x="36" y="157" width="330" height="531">
+      <frame id="2004:12875" name="Presentación" x="0" y="0" width="330" height="104">
+        <frame id="2004:12876" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13155" name="circle-help" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:12878" name="Descripción" x="0" y="66" width="330" height="38" />
+      </frame>
+      <frame id="2004:12879" name="Tarjeta" x="0" y="124" width="330" height="407">
+        <frame id="2004:12880" name="Opción" x="0" y="0" width="330" height="68">
+          <frame id="2004:12881" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12882" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13158" name="book-open" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12884" name="Información" x="68" y="14.5" width="224" height="38">
+              <text id="2004:12885" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              <text id="2004:12886" name="Detalle" x="0" y="22" width="224" height="16" />
+            </frame>
+            <frame id="2004:13161" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+          </frame>
+          <frame id="2004:12888" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12889" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12890" name="Opción" x="0" y="68" width="330" height="68">
+          <frame id="2004:12891" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12892" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13164" name="circle-help" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12894" name="Información" x="68" y="14.5" width="224" height="38">
+              <text id="2004:12895" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              <text id="2004:12896" name="Detalle" x="0" y="22" width="224" height="16" />
+            </frame>
+            <frame id="2004:13167" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+          </frame>
+          <frame id="2004:12898" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12899" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12900" name="Opción" x="0" y="136" width="330" height="68">
+          <frame id="2004:12901" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12902" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13170" name="headphones" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12904" name="Información" x="68" y="14.5" width="224" height="38">
+              <text id="2004:12905" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              <text id="2004:12906" name="Detalle" x="0" y="22" width="224" height="16" />
+            </frame>
+            <frame id="2004:13173" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+          </frame>
+          <frame id="2004:12908" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12909" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12910" name="Opción" x="0" y="204" width="330" height="68">
+          <frame id="2004:12911" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12912" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13176" name="message-square" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12914" name="Información" x="68" y="14.5" width="224" height="38">
+              <text id="2004:12915" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              <text id="2004:12916" name="Detalle" x="0" y="22" width="224" height="16" />
+            </frame>
+            <frame id="2004:13179" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+          </frame>
+          <frame id="2004:12918" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12919" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12920" name="Opción" x="0" y="272" width="330" height="68">
+          <frame id="2004:12921" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12922" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13182" name="bug" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12924" name="Información" x="68" y="14.5" width="224" height="38">
+              <text id="2004:12925" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              <text id="2004:12926" name="Detalle" x="0" y="22" width="224" height="16" />
+            </frame>
+            <frame id="2004:13185" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+          </frame>
+          <frame id="2004:12928" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12929" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12930" name="Opción" x="0" y="340" width="330" height="67">
+          <frame id="2004:12931" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12932" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13188" name="info" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12934" name="Información" x="68" y="14.5" width="224" height="38">
+              <text id="2004:12935" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              <text id="2004:12936" name="Detalle" x="0" y="22" width="224" height="16" />
+            </frame>
+            <frame id="2004:13191" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2004:12938" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12963" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12949" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12946" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12942" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12939" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12749" name="Privacidad" x="14178" y="0" width="402" height="874">
+    <instance id="2004:12750" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:12763" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12764" name="Contenido" x="36" y="157" width="330" height="531">
+      <frame id="2004:12765" name="Presentación" x="0" y="0" width="330" height="85">
+        <frame id="2004:12766" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13122" name="lock-keyhole" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:12768" name="Descripción" x="0" y="66" width="330" height="19" />
+      </frame>
+      <frame id="2004:12769" name="Sección" x="0" y="105" width="330" height="237">
+        <text id="2004:12770" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:12771" name="Tarjeta" x="0" y="34" width="330" height="203">
+          <frame id="2004:12772" name="Opción" x="0" y="0" width="330" height="68">
+            <frame id="2004:12773" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:12774" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:13125" name="shield-check" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:12776" name="Información" x="68" y="14.5" width="224" height="38">
+                <text id="2004:12777" name="Etiqueta" x="0" y="0" width="224" height="19" />
+                <text id="2004:12778" name="Detalle" x="0" y="22" width="224" height="16" />
+              </frame>
+              <frame id="2004:13128" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+            </frame>
+            <frame id="2004:12780" name="Separación" x="0" y="67" width="330" height="1">
+              <rounded-rectangle id="2004:12781" name="Divisor" x="60" y="0" width="270" height="1" />
+            </frame>
+          </frame>
+          <frame id="2004:12782" name="Opción" x="0" y="68" width="330" height="68">
+            <frame id="2004:12783" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:12784" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:13131" name="download" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:12786" name="Información" x="68" y="14.5" width="224" height="38">
+                <text id="2004:12787" name="Etiqueta" x="0" y="0" width="224" height="19" />
+                <text id="2004:12788" name="Detalle" x="0" y="22" width="224" height="16" />
+              </frame>
+              <frame id="2004:13134" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+            </frame>
+            <frame id="2004:12790" name="Separación" x="0" y="67" width="330" height="1">
+              <rounded-rectangle id="2004:12791" name="Divisor" x="60" y="0" width="270" height="1" />
+            </frame>
+          </frame>
+          <frame id="2004:12792" name="Opción" x="0" y="136" width="330" height="67">
+            <frame id="2004:12793" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:12794" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:13137" name="trash-2" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:12796" name="Información" x="68" y="14.5" width="224" height="38">
+                <text id="2004:12797" name="Etiqueta" x="0" y="0" width="224" height="19" />
+                <text id="2004:12798" name="Detalle" x="0" y="22" width="224" height="16" />
+              </frame>
+              <frame id="2004:13140" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:12800" name="Sección" x="0" y="362" width="330" height="169">
+        <text id="2004:12801" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:12802" name="Tarjeta" x="0" y="34" width="330" height="135">
+          <frame id="2004:12803" name="Opción" x="0" y="0" width="330" height="68">
+            <frame id="2004:12804" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:12805" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:13143" name="file-lock-2" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:12807" name="Información" x="68" y="24" width="224" height="19">
+                <text id="2004:12808" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              </frame>
+              <frame id="2004:13146" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+            </frame>
+            <frame id="2004:12810" name="Separación" x="0" y="67" width="330" height="1">
+              <rounded-rectangle id="2004:12811" name="Divisor" x="60" y="0" width="270" height="1" />
+            </frame>
+          </frame>
+          <frame id="2004:12812" name="Opción" x="0" y="68" width="330" height="67">
+            <frame id="2004:12813" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:12814" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:13149" name="file-text" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:12816" name="Información" x="68" y="24" width="224" height="19">
+                <text id="2004:12817" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              </frame>
+              <frame id="2004:13152" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2004:12819" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12844" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12830" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12827" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12823" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12820" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12654" name="Idioma" x="13736" y="0" width="402" height="874">
+    <instance id="2004:12655" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:12668" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12669" name="Contenido" x="36" y="157" width="330" height="444">
+      <frame id="2004:12670" name="Presentación" x="0" y="0" width="330" height="85">
+        <frame id="2004:12671" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13116" name="globe" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:12673" name="Descripción" x="0" y="66" width="330" height="19" />
+      </frame>
+      <frame id="2004:12674" name="Tarjeta" x="0" y="105" width="330" height="339">
+        <frame id="2004:12675" name="Opción" x="0" y="0" width="330" height="68">
+          <frame id="2004:12676" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12677" name="Información" x="12" y="14.5" width="274" height="38">
+              <text id="2004:12678" name="Etiqueta" x="0" y="0" width="274" height="19" />
+              <text id="2004:12679" name="Detalle" x="0" y="22" width="274" height="16" />
+            </frame>
+            <frame id="2004:13119" name="check" x="298" y="23.5" width="20" height="20" />
+          </frame>
+          <frame id="2004:12681" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12682" name="Divisor" x="20" y="0" width="310" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12683" name="Opción" x="0" y="68" width="330" height="68">
+          <frame id="2004:12684" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12685" name="Información" x="12" y="14.5" width="306" height="38">
+              <text id="2004:12686" name="Etiqueta" x="0" y="0" width="306" height="19" />
+              <text id="2004:12687" name="Detalle" x="0" y="22" width="306" height="16" />
+            </frame>
+          </frame>
+          <frame id="2004:12688" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12689" name="Divisor" x="20" y="0" width="310" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12690" name="Opción" x="0" y="136" width="330" height="68">
+          <frame id="2004:12691" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12692" name="Información" x="12" y="14.5" width="306" height="38">
+              <text id="2004:12693" name="Etiqueta" x="0" y="0" width="306" height="19" />
+              <text id="2004:12694" name="Detalle" x="0" y="22" width="306" height="16" />
+            </frame>
+          </frame>
+          <frame id="2004:12695" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12696" name="Divisor" x="20" y="0" width="310" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12697" name="Opción" x="0" y="204" width="330" height="68">
+          <frame id="2004:12698" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12699" name="Información" x="12" y="14.5" width="306" height="38">
+              <text id="2004:12700" name="Etiqueta" x="0" y="0" width="306" height="19" />
+              <text id="2004:12701" name="Detalle" x="0" y="22" width="306" height="16" />
+            </frame>
+          </frame>
+          <frame id="2004:12702" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12703" name="Divisor" x="20" y="0" width="310" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12704" name="Opción" x="0" y="272" width="330" height="67">
+          <frame id="2004:12705" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12706" name="Información" x="12" y="14.5" width="306" height="38">
+              <text id="2004:12707" name="Etiqueta" x="0" y="0" width="306" height="19" />
+              <text id="2004:12708" name="Detalle" x="0" y="22" width="306" height="16" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2004:12709" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12734" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12720" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12717" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12713" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12710" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12559" name="Apariencia" x="13294" y="0" width="402" height="874">
+    <instance id="2004:12560" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:12573" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12574" name="Contenido" x="36" y="157" width="330" height="512">
+      <frame id="2004:12575" name="Presentación" x="0" y="0" width="330" height="85">
+        <frame id="2004:12576" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13101" name="moon" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:12578" name="Descripción" x="0" y="66" width="330" height="19" />
+      </frame>
+      <frame id="2004:12579" name="Tarjeta" x="0" y="105" width="330" height="203">
+        <frame id="2004:12580" name="Opción" x="0" y="0" width="330" height="68">
+          <frame id="2004:12581" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12582" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13104" name="sun" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12584" name="Información" x="68" y="14.5" width="250" height="38">
+              <text id="2004:12585" name="Etiqueta" x="0" y="0" width="250" height="19" />
+              <text id="2004:12586" name="Detalle" x="0" y="22" width="250" height="16" />
+            </frame>
+          </frame>
+          <frame id="2004:12587" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12588" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12589" name="Opción" x="0" y="68" width="330" height="68">
+          <frame id="2004:12590" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12591" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13107" name="moon" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12593" name="Información" x="68" y="14.5" width="250" height="38">
+              <text id="2004:12594" name="Etiqueta" x="0" y="0" width="250" height="19" />
+              <text id="2004:12595" name="Detalle" x="0" y="22" width="250" height="16" />
+            </frame>
+          </frame>
+          <frame id="2004:12596" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12597" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12598" name="Opción" x="0" y="136" width="330" height="67">
+          <frame id="2004:12599" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12600" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13110" name="monitor" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12602" name="Información" x="68" y="14.5" width="218" height="38">
+              <text id="2004:12603" name="Etiqueta" x="0" y="0" width="218" height="19" />
+              <text id="2004:12604" name="Detalle" x="0" y="22" width="218" height="16" />
+            </frame>
+            <frame id="2004:13113" name="check" x="298" y="23.5" width="20" height="20" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:12606" name="Sección" x="0" y="328" width="330" height="184">
+        <text id="2004:12607" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:12608" name="Tarjeta" x="0" y="34" width="330" height="150">
+          <frame id="2004:12609" name="Vista previa de apariencia" x="0" y="0" width="330" height="150">
+            <text id="2004:12610" name="Marca" x="24" y="24" width="56" height="24" />
+            <frame id="2004:12611" name="Saldo" x="24" y="62" width="282" height="64">
+              <text id="2004:12612" name="Monto" x="51" y="0" width="180" height="43" />
+              <text id="2004:12613" name="Etiqueta" x="108" y="47" width="66" height="17" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2004:12614" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12639" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12625" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12622" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12618" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12615" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12444" name="Notificaciones" x="12852" y="0" width="402" height="874">
+    <instance id="2004:12445" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:12458" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12459" name="Contenido" x="36" y="157" width="330" height="502">
+      <frame id="2004:12460" name="Presentación" x="0" y="0" width="330" height="85">
+        <frame id="2004:12461" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13083" name="bell" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:12463" name="Descripción" x="0" y="66" width="330" height="19" />
+      </frame>
+      <frame id="2004:12464" name="Tarjeta" x="0" y="105" width="330" height="339">
+        <frame id="2004:12465" name="Opción" x="0" y="0" width="330" height="68">
+          <frame id="2004:12466" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12467" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13086" name="credit-card" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12469" name="Información" x="68" y="14.5" width="188" height="38">
+              <text id="2004:12470" name="Etiqueta" x="0" y="0" width="188" height="19" />
+              <text id="2004:12471" name="Detalle" x="0" y="22" width="188" height="16" />
+            </frame>
+            <frame id="2004:12472" name="Activado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:12473" name="Control" x="22" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+          <frame id="2004:12474" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12475" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12476" name="Opción" x="0" y="68" width="330" height="68">
+          <frame id="2004:12477" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12478" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13089" name="target" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12480" name="Información" x="68" y="14.5" width="188" height="38">
+              <text id="2004:12481" name="Etiqueta" x="0" y="0" width="188" height="19" />
+              <text id="2004:12482" name="Detalle" x="0" y="22" width="188" height="16" />
+            </frame>
+            <frame id="2004:12483" name="Activado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:12484" name="Control" x="22" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+          <frame id="2004:12485" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12486" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12487" name="Opción" x="0" y="136" width="330" height="68">
+          <frame id="2004:12488" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12489" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13092" name="chart-no-axes-column-increasing" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12491" name="Información" x="68" y="14.5" width="188" height="38">
+              <text id="2004:12492" name="Etiqueta" x="0" y="0" width="188" height="19" />
+              <text id="2004:12493" name="Detalle" x="0" y="22" width="188" height="16" />
+            </frame>
+            <frame id="2004:12494" name="Activado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:12495" name="Control" x="22" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+          <frame id="2004:12496" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12497" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12498" name="Opción" x="0" y="204" width="330" height="68">
+          <frame id="2004:12499" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12500" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13095" name="chart-column" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12502" name="Información" x="68" y="14.5" width="188" height="38">
+              <text id="2004:12503" name="Etiqueta" x="0" y="0" width="188" height="19" />
+              <text id="2004:12504" name="Detalle" x="0" y="22" width="188" height="16" />
+            </frame>
+            <frame id="2004:12505" name="Desactivado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:12506" name="Control" x="2" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+          <frame id="2004:12507" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12508" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12509" name="Opción" x="0" y="272" width="330" height="67">
+          <frame id="2004:12510" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12511" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13098" name="sparkles" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12513" name="Información" x="68" y="14.5" width="188" height="38">
+              <text id="2004:12514" name="Etiqueta" x="0" y="0" width="188" height="19" />
+              <text id="2004:12515" name="Detalle" x="0" y="22" width="188" height="16" />
+            </frame>
+            <frame id="2004:12516" name="Activado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:12517" name="Control" x="22" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:12518" name="Descripción" x="0" y="464" width="330" height="38" />
+    </frame>
+    <frame id="2004:12519" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12544" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12530" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12527" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12523" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12520" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12342" name="Objetivos" x="12410" y="0" width="402" height="874">
+    <instance id="2004:12343" name="Volver" x="20" y="20" width="50" height="50" />
+    <instance id="2004:12356" name="Crear" x="325" y="20" width="50" height="50" />
+    <text id="2004:12369" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12370" name="Contenido" x="36" y="157" width="330" height="480">
+      <text id="2004:12371" name="Descripción" x="0" y="0" width="330" height="19" />
+      <frame id="2004:12372" name="Metas de ahorro" x="0" y="39" width="330" height="364">
+        <frame id="2004:12373" name="Objetivo" x="0" y="0" width="330" height="176">
+          <frame id="2004:12374" name="Meta" x="20" y="20" width="290" height="35">
+            <rounded-rectangle id="2004:12375" name="Objetivo de ahorro" x="0" y="0" width="35" height="35" />
+            <text id="2004:12376" name="Nombre" x="47" y="7" width="243" height="21" />
+          </frame>
+          <frame id="2004:12377" name="Ahorro" x="20" y="71" width="290" height="42">
+            <frame id="2004:12378" name="Ahorrado" x="0" y="0" width="83" height="42">
+              <text id="2004:12379" name="Etiqueta" x="0" y="0" width="67" height="14" />
+              <text id="2004:12380" name="Monto" x="0" y="18" width="83" height="24" />
+            </frame>
+            <frame id="2004:12381" name="Meta" x="206" y="0" width="84" height="39">
+              <text id="2004:12382" name="Etiqueta" x="41" y="0" width="43" height="14" />
+              <text id="2004:12383" name="Monto" x="0" y="18" width="84" height="21" />
+            </frame>
+          </frame>
+          <frame id="2004:12384" name="Progreso" x="20" y="129" width="290" height="27">
+            <frame id="2004:12385" name="Barra" x="0" y="0" width="290" height="6">
+              <rounded-rectangle id="2004:12386" name="Avance" x="0" y="0" width="58" height="6" />
+            </frame>
+            <text id="2004:12387" name="Porcentaje" x="0" y="13" width="290" height="14" />
+          </frame>
+        </frame>
+        <frame id="2004:12388" name="Objetivo" x="0" y="188" width="330" height="176">
+          <frame id="2004:12389" name="Meta" x="20" y="20" width="290" height="35">
+            <rounded-rectangle id="2004:12390" name="Objetivo de ahorro" x="0" y="0" width="35" height="35" />
+            <text id="2004:12391" name="Nombre" x="47" y="7" width="243" height="21" />
+          </frame>
+          <frame id="2004:12392" name="Ahorro" x="20" y="71" width="290" height="42">
+            <frame id="2004:12393" name="Ahorrado" x="0" y="0" width="96" height="42">
+              <text id="2004:12394" name="Etiqueta" x="0" y="0" width="67" height="14" />
+              <text id="2004:12395" name="Monto" x="0" y="18" width="96" height="24" />
+            </frame>
+            <frame id="2004:12396" name="Meta" x="203" y="0" width="87" height="39">
+              <text id="2004:12397" name="Etiqueta" x="44" y="0" width="43" height="14" />
+              <text id="2004:12398" name="Monto" x="0" y="18" width="87" height="21" />
+            </frame>
+          </frame>
+          <frame id="2004:12399" name="Progreso" x="20" y="129" width="290" height="27">
+            <frame id="2004:12400" name="Barra" x="0" y="0" width="290" height="6">
+              <rounded-rectangle id="2004:12401" name="Avance" x="0" y="0" width="168.1999969482422" height="6" />
+            </frame>
+            <text id="2004:12402" name="Porcentaje" x="0" y="13" width="290" height="14" />
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:12403" name="Descripción" x="0" y="423" width="330" height="57" />
+    </frame>
+    <frame id="2004:12404" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12429" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12415" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12412" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12408" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12405" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12227" name="Suscripciones" x="11968" y="0" width="402" height="874">
+    <instance id="2004:12228" name="Volver" x="20" y="20" width="50" height="50" />
+    <instance id="2004:12241" name="Crear" x="325" y="20" width="50" height="50" />
+    <text id="2004:12254" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12255" name="Contenido" x="36" y="157" width="330" height="593">
+      <text id="2004:12256" name="Descripción" x="0" y="0" width="330" height="38" />
+      <frame id="2004:12257" name="Suscripciones registradas" x="0" y="58" width="330" height="477">
+        <frame id="2004:12258" name="Suscripción" x="0" y="0" width="330" height="89">
+          <frame id="2004:12259" name="Icono" x="16" y="22.5" width="44" height="44">
+            <frame id="2004:13074" name="film" x="12" y="12" width="20" height="20" />
+          </frame>
+          <frame id="2004:12261" name="Detalles" x="72" y="16" width="242" height="57">
+            <frame id="2004:12262" name="Nombre y monto" x="0" y="0" width="242" height="19">
+              <text id="2004:12263" name="Nombre" x="0" y="0" width="176" height="19" />
+              <text id="2004:12264" name="Monto" x="182" y="0" width="60" height="19" />
+            </frame>
+            <text id="2004:12265" name="Frecuencia" x="0" y="23" width="242" height="16" />
+            <text id="2004:12266" name="Próxima fecha" x="0" y="43" width="242" height="14" />
+          </frame>
+        </frame>
+        <frame id="2004:12267" name="Suscripción" x="0" y="97" width="330" height="89">
+          <rounded-rectangle id="2004:12268" name="Tarjeta de suscripción" x="16" y="27" width="35" height="35" />
+          <frame id="2004:12269" name="Detalles" x="63" y="16" width="251" height="57">
+            <frame id="2004:12270" name="Nombre y monto" x="0" y="0" width="251" height="19">
+              <text id="2004:12271" name="Nombre" x="0" y="0" width="191" height="19" />
+              <text id="2004:12272" name="Monto" x="197" y="0" width="54" height="19" />
+            </frame>
+            <text id="2004:12273" name="Frecuencia" x="0" y="23" width="251" height="16" />
+            <text id="2004:12274" name="Próxima fecha" x="0" y="43" width="251" height="14" />
+          </frame>
+        </frame>
+        <frame id="2004:12275" name="Suscripción" x="0" y="194" width="330" height="89">
+          <frame id="2004:12276" name="Icono" x="16" y="22.5" width="44" height="44">
+            <frame id="2004:13077" name="cloud" x="12" y="12" width="20" height="20" />
+          </frame>
+          <frame id="2004:12278" name="Detalles" x="72" y="16" width="242" height="57">
+            <frame id="2004:12279" name="Nombre y monto" x="0" y="0" width="242" height="19">
+              <text id="2004:12280" name="Nombre" x="0" y="0" width="191" height="19" />
+              <text id="2004:12281" name="Monto" x="197" y="0" width="45" height="19" />
+            </frame>
+            <text id="2004:12282" name="Frecuencia" x="0" y="23" width="242" height="16" />
+            <text id="2004:12283" name="Próxima fecha" x="0" y="43" width="242" height="14" />
+          </frame>
+        </frame>
+        <frame id="2004:12284" name="Suscripción" x="0" y="291" width="330" height="89">
+          <frame id="2004:12285" name="Icono" x="16" y="22.5" width="44" height="44">
+            <frame id="2004:13080" name="play" x="12" y="12" width="20" height="20" />
+          </frame>
+          <frame id="2004:12287" name="Detalles" x="72" y="16" width="242" height="57">
+            <frame id="2004:12288" name="Nombre y monto" x="0" y="0" width="242" height="19">
+              <text id="2004:12289" name="Nombre" x="0" y="0" width="176" height="19" />
+              <text id="2004:12290" name="Monto" x="182" y="0" width="60" height="19" />
+            </frame>
+            <text id="2004:12291" name="Frecuencia" x="0" y="23" width="242" height="16" />
+            <text id="2004:12292" name="Próxima fecha" x="0" y="43" width="242" height="14" />
+          </frame>
+        </frame>
+        <frame id="2004:12293" name="Suscripción" x="0" y="388" width="330" height="89">
+          <rounded-rectangle id="2004:12294" name="Tarjeta de suscripción" x="16" y="27" width="35" height="35" />
+          <frame id="2004:12295" name="Detalles" x="63" y="16" width="251" height="57">
+            <frame id="2004:12296" name="Nombre y monto" x="0" y="0" width="251" height="19">
+              <text id="2004:12297" name="Nombre" x="0" y="0" width="188" height="19" />
+              <text id="2004:12298" name="Monto" x="194" y="0" width="57" height="19" />
+            </frame>
+            <text id="2004:12299" name="Frecuencia" x="0" y="23" width="251" height="16" />
+            <text id="2004:12300" name="Próxima fecha" x="0" y="43" width="251" height="14" />
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:12301" name="Descripción" x="0" y="555" width="330" height="38" />
+    </frame>
+    <frame id="2004:12302" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12327" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12313" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12310" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12306" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12303" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:12085" name="Categorías" x="11526" y="0" width="402" height="874">
+    <instance id="2004:12086" name="Volver" x="20" y="20" width="50" height="50" />
+    <instance id="2004:12099" name="Crear" x="324" y="20" width="50" height="50" />
+    <text id="2004:12112" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12113" name="Contenido" x="36" y="157" width="330" height="584">
+      <text id="2004:12114" name="Descripción" x="0" y="0" width="330" height="38" />
+      <frame id="2004:12115" name="Tarjeta" x="0" y="58" width="330" height="487">
+        <frame id="2004:12116" name="Opción" x="0" y="0" width="330" height="61">
+          <frame id="2004:12117" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12118" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13026" name="utensils" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12120" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12121" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13029" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12123" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12124" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12125" name="Opción" x="0" y="61" width="330" height="61">
+          <frame id="2004:12126" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12127" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13032" name="bus" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12129" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12130" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13035" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12132" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12133" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12134" name="Opción" x="0" y="122" width="330" height="61">
+          <frame id="2004:12135" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12136" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13038" name="popcorn" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12138" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12139" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13041" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12141" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12142" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12143" name="Opción" x="0" y="183" width="330" height="61">
+          <frame id="2004:12144" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12145" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13044" name="shopping-bag" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12147" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12148" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13047" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12150" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12151" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12152" name="Opción" x="0" y="244" width="330" height="61">
+          <frame id="2004:12153" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12154" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13050" name="heart" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12156" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12157" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13053" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12159" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12160" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12161" name="Opción" x="0" y="305" width="330" height="61">
+          <frame id="2004:12162" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12163" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13056" name="graduation-cap" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12165" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12166" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13059" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12168" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12169" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12170" name="Opción" x="0" y="366" width="330" height="61">
+          <frame id="2004:12171" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12172" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13062" name="house" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12174" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12175" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13065" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+          <frame id="2004:12177" name="Separación" x="0" y="60" width="330" height="1">
+            <rounded-rectangle id="2004:12178" name="Divisor" x="60" y="0" width="270" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12179" name="Opción" x="0" y="427" width="330" height="60">
+          <frame id="2004:12180" name="Contenido" x="0" y="0" width="330" height="60">
+            <frame id="2004:12181" name="Icono" x="12" y="8" width="44" height="44">
+              <frame id="2004:13068" name="ellipsis" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:12183" name="Información" x="68" y="20.5" width="224" height="19">
+              <text id="2004:12184" name="Etiqueta" x="0" y="0" width="224" height="19" />
+            </frame>
+            <frame id="2004:13071" name="chevron-right" x="304" y="23" width="14" height="14" />
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:12186" name="Descripción" x="0" y="565" width="330" height="19" />
+    </frame>
+    <frame id="2004:12187" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12212" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12198" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12195" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12191" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12188" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:11995" name="Límite" x="11084" y="0" width="402" height="874">
+    <instance id="2004:11996" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:12009" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:12010" name="Contenido" x="36" y="157" width="330" height="581">
+      <frame id="2004:12011" name="Presentación" x="0" y="0" width="330" height="138">
+        <frame id="2004:12012" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13017" name="chart-no-axes-column-increasing" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:12014" name="Descripción" x="0" y="66" width="330" height="24" />
+        <text id="2004:12015" name="Descripción" x="0" y="100" width="330" height="38" />
+      </frame>
+      <frame id="2004:12016" name="Tarjeta" x="0" y="158" width="330" height="67">
+        <frame id="2004:12017" name="Opción" x="0" y="0" width="330" height="67">
+          <frame id="2004:12018" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12019" name="Información" x="12" y="24" width="244" height="19">
+              <text id="2004:12020" name="Etiqueta" x="0" y="0" width="244" height="19" />
+            </frame>
+            <frame id="2004:12021" name="Activado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:12022" name="Control" x="22" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:12023" name="Tarjeta" x="0" y="245" width="330" height="72">
+        <frame id="2004:12024" name="Campo" x="0" y="0" width="330" height="72">
+          <frame id="2004:12025" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:12026" name="Texto" x="20" y="16" width="290" height="40">
+              <text id="2004:12027" name="Etiqueta" x="0" y="0" width="290" height="16" />
+              <text id="2004:12028" name="Valor" x="0" y="21" width="290" height="19" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:12029" name="Tarjeta" x="0" y="337" width="330" height="135">
+        <frame id="2004:12030" name="Opción" x="0" y="0" width="330" height="68">
+          <frame id="2004:12031" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12032" name="Información" x="12" y="14.5" width="306" height="38">
+              <text id="2004:12033" name="Etiqueta" x="0" y="0" width="306" height="19" />
+              <text id="2004:12034" name="Detalle" x="0" y="22" width="306" height="16" />
+            </frame>
+          </frame>
+          <frame id="2004:12035" name="Separación" x="0" y="67" width="330" height="1">
+            <rounded-rectangle id="2004:12036" name="Divisor" x="20" y="0" width="310" height="1" />
+          </frame>
+        </frame>
+        <frame id="2004:12037" name="Opción" x="0" y="68" width="330" height="67">
+          <frame id="2004:12038" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:12039" name="Información" x="12" y="24" width="274" height="19">
+              <text id="2004:12040" name="Etiqueta" x="0" y="0" width="274" height="19" />
+            </frame>
+            <frame id="2004:13020" name="check" x="298" y="23.5" width="20" height="20" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:12042" name="Aviso de límite" x="0" y="492" width="330" height="89">
+        <frame id="2004:13023" name="info" x="16" y="16" width="18" height="18" />
+        <text id="2004:12044" name="Descripción" x="44" y="16" width="270" height="57" />
+      </frame>
+    </frame>
+    <frame id="2004:12045" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:12070" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:12056" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:12053" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:12049" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:12046" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:11903" name="Moneda" x="10642" y="0" width="402" height="874">
+    <instance id="2004:11904" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:11917" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:11918" name="Contenido" x="36" y="157" width="330" height="521">
+      <frame id="2004:11919" name="Presentación" x="0" y="0" width="330" height="104">
+        <frame id="2004:11920" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:13011" name="banknote" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:11922" name="Descripción" x="0" y="66" width="330" height="38" />
+      </frame>
+      <frame id="2004:11923" name="Sección" x="0" y="124" width="330" height="101">
+        <text id="2004:11924" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:11925" name="Tarjeta" x="0" y="34" width="330" height="67">
+          <frame id="2004:11926" name="Opción" x="0" y="0" width="330" height="67">
+            <frame id="2004:11927" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11928" name="Información" x="12" y="14.5" width="274" height="38">
+                <text id="2004:11929" name="Etiqueta" x="0" y="0" width="274" height="19" />
+                <text id="2004:11930" name="Detalle" x="0" y="22" width="274" height="16" />
+              </frame>
+              <frame id="2004:13014" name="check" x="298" y="23.5" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:11932" name="Sección" x="0" y="245" width="330" height="237">
+        <text id="2004:11933" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:11934" name="Tarjeta" x="0" y="34" width="330" height="203">
+          <frame id="2004:11935" name="Opción" x="0" y="0" width="330" height="68">
+            <frame id="2004:11936" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11937" name="Información" x="12" y="14.5" width="306" height="38">
+                <text id="2004:11938" name="Etiqueta" x="0" y="0" width="306" height="19" />
+                <text id="2004:11939" name="Detalle" x="0" y="22" width="306" height="16" />
+              </frame>
+            </frame>
+            <frame id="2004:11940" name="Separación" x="0" y="67" width="330" height="1">
+              <rounded-rectangle id="2004:11941" name="Divisor" x="20" y="0" width="310" height="1" />
+            </frame>
+          </frame>
+          <frame id="2004:11942" name="Opción" x="0" y="68" width="330" height="68">
+            <frame id="2004:11943" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11944" name="Información" x="12" y="14.5" width="306" height="38">
+                <text id="2004:11945" name="Etiqueta" x="0" y="0" width="306" height="19" />
+                <text id="2004:11946" name="Detalle" x="0" y="22" width="306" height="16" />
+              </frame>
+            </frame>
+            <frame id="2004:11947" name="Separación" x="0" y="67" width="330" height="1">
+              <rounded-rectangle id="2004:11948" name="Divisor" x="20" y="0" width="310" height="1" />
+            </frame>
+          </frame>
+          <frame id="2004:11949" name="Opción" x="0" y="136" width="330" height="67">
+            <frame id="2004:11950" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11951" name="Información" x="12" y="14.5" width="306" height="38">
+                <text id="2004:11952" name="Etiqueta" x="0" y="0" width="306" height="19" />
+                <text id="2004:11953" name="Detalle" x="0" y="22" width="306" height="16" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:11954" name="Descripción" x="0" y="502" width="330" height="19" />
+    </frame>
+    <frame id="2004:11955" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:11980" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:11966" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:11963" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:11959" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:11956" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:11803" name="Contraseña" x="10200" y="0" width="402" height="874">
+    <instance id="2004:11804" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:11817" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:11818" name="Contenido" x="36" y="157" width="330" height="597">
+      <frame id="2004:11819" name="Presentación" x="0" y="0" width="330" height="138">
+        <frame id="2004:11820" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:12996" name="key-round" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:11822" name="Descripción" x="0" y="66" width="330" height="24" />
+        <text id="2004:11823" name="Descripción" x="0" y="100" width="330" height="38" />
+      </frame>
+      <frame id="2004:11824" name="Tarjeta" x="0" y="158" width="330" height="218">
+        <frame id="2004:11825" name="Campo" x="0" y="0" width="330" height="73">
+          <frame id="2004:11826" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11827" name="Texto" x="20" y="16" width="260" height="40">
+              <text id="2004:11828" name="Etiqueta" x="0" y="0" width="260" height="16" />
+              <text id="2004:11829" name="Valor" x="0" y="21" width="260" height="19" />
+            </frame>
+            <frame id="2004:12999" name="eye" x="292" y="27" width="18" height="18" />
+          </frame>
+          <rounded-rectangle id="2004:11831" name="Divisor" x="0" y="72" width="330" height="1" />
+        </frame>
+        <frame id="2004:11832" name="Campo" x="0" y="73" width="330" height="73">
+          <frame id="2004:11833" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11834" name="Texto" x="20" y="16" width="260" height="40">
+              <text id="2004:11835" name="Etiqueta" x="0" y="0" width="260" height="16" />
+              <text id="2004:11836" name="Valor" x="0" y="21" width="260" height="19" />
+            </frame>
+            <frame id="2004:13002" name="eye" x="292" y="27" width="18" height="18" />
+          </frame>
+          <rounded-rectangle id="2004:11838" name="Divisor" x="0" y="72" width="330" height="1" />
+        </frame>
+        <frame id="2004:11839" name="Campo" x="0" y="146" width="330" height="72">
+          <frame id="2004:11840" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11841" name="Texto" x="20" y="16" width="260" height="40">
+              <text id="2004:11842" name="Etiqueta" x="0" y="0" width="260" height="16" />
+              <text id="2004:11843" name="Valor" x="0" y="21" width="260" height="19" />
+            </frame>
+            <frame id="2004:13005" name="eye" x="292" y="27" width="18" height="18" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:11845" name="Tarjeta" x="0" y="396" width="330" height="67">
+        <frame id="2004:11846" name="Opción" x="0" y="0" width="330" height="67">
+          <frame id="2004:11847" name="Contenido" x="0" y="0" width="330" height="67">
+            <frame id="2004:11848" name="Icono" x="12" y="11.5" width="44" height="44">
+              <frame id="2004:13008" name="eye" x="12" y="12" width="20" height="20" />
+            </frame>
+            <frame id="2004:11850" name="Información" x="68" y="24" width="188" height="19">
+              <text id="2004:11851" name="Etiqueta" x="0" y="0" width="188" height="19" />
+            </frame>
+            <frame id="2004:11852" name="Desactivado" x="268" y="18.5" width="50" height="30">
+              <ellipse id="2004:11853" name="Control" x="2" y="2" width="26" height="26" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:11854" name="Descripción" x="0" y="483" width="330" height="38" />
+      <instance id="2004:11855" name="Acción" x="0" y="541" width="330" height="56" />
+    </frame>
+    <frame id="2004:11863" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:11888" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:11874" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:11871" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:11867" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:11864" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:11710" name="Correo electrónico" x="9758" y="0" width="402" height="874">
+    <instance id="2004:11711" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:11724" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:11725" name="Contenido" x="36" y="157" width="330" height="487">
+      <frame id="2004:11726" name="Presentación" x="0" y="0" width="330" height="119">
+        <frame id="2004:11727" name="Icono" x="137" y="0" width="56" height="56">
+          <frame id="2004:12981" name="mail" x="16" y="16" width="24" height="24" />
+        </frame>
+        <text id="2004:11729" name="Descripción" x="0" y="66" width="330" height="24" />
+        <text id="2004:11730" name="Descripción" x="0" y="100" width="330" height="19" />
+      </frame>
+      <frame id="2004:11731" name="Sección" x="0" y="139" width="330" height="169">
+        <text id="2004:11732" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:11733" name="Tarjeta" x="0" y="34" width="330" height="135">
+          <frame id="2004:11734" name="Opción" x="0" y="0" width="330" height="68">
+            <frame id="2004:11735" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11736" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:12984" name="badge-check" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:11738" name="Información" x="68" y="14.5" width="175" height="38">
+                <text id="2004:11739" name="Etiqueta" x="0" y="0" width="175" height="19" />
+                <text id="2004:11740" name="Detalle" x="0" y="22" width="175" height="16" />
+              </frame>
+              <text id="2004:11741" name="Valor" x="255" y="25" width="63" height="17" />
+            </frame>
+            <frame id="2004:11742" name="Separación" x="0" y="67" width="330" height="1">
+              <rounded-rectangle id="2004:11743" name="Divisor" x="60" y="0" width="270" height="1" />
+            </frame>
+          </frame>
+          <frame id="2004:11744" name="Opción" x="0" y="68" width="330" height="67">
+            <frame id="2004:11745" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11746" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:12987" name="mail" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:11748" name="Información" x="68" y="24" width="224" height="19">
+                <text id="2004:11749" name="Etiqueta" x="0" y="0" width="224" height="19" />
+              </frame>
+              <frame id="2004:12990" name="chevron-right" x="304" y="26.5" width="14" height="14" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2004:11751" name="Sección" x="0" y="328" width="330" height="101">
+        <text id="2004:11752" name="Encabezado" x="0" y="0" width="330" height="24" />
+        <frame id="2004:11753" name="Tarjeta" x="0" y="34" width="330" height="67">
+          <frame id="2004:11754" name="Opción" x="0" y="0" width="330" height="67">
+            <frame id="2004:11755" name="Contenido" x="0" y="0" width="330" height="67">
+              <frame id="2004:11756" name="Icono" x="12" y="11.5" width="44" height="44">
+                <frame id="2004:12993" name="bell" x="12" y="12" width="20" height="20" />
+              </frame>
+              <frame id="2004:11758" name="Información" x="68" y="24" width="188" height="19">
+                <text id="2004:11759" name="Etiqueta" x="0" y="0" width="188" height="19" />
+              </frame>
+              <frame id="2004:11760" name="Activado" x="268" y="18.5" width="50" height="30">
+                <ellipse id="2004:11761" name="Control" x="22" y="2" width="26" height="26" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <text id="2004:11762" name="Descripción" x="0" y="449" width="330" height="38" />
+    </frame>
+    <frame id="2004:11763" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:11788" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:11774" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:11771" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:11767" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:11764" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="2004:11625" name="Información personal" x="9316" y="0" width="402" height="874">
+    <instance id="2004:11626" name="Volver" x="20" y="20" width="50" height="50" />
+    <text id="2004:11639" name="Título" x="36" y="98" width="330" height="35" />
+    <frame id="2004:11640" name="Contenido" x="36" y="157" width="330" height="452">
+      <frame id="2004:11641" name="Perfil" x="0" y="0" width="330" height="141">
+        <frame id="2004:11642" name="Avatar" x="125" y="0" width="80" height="80">
+          <frame id="2004:12978" name="user-round" x="22" y="22" width="36" height="36" />
+        </frame>
+        <text id="2004:11644" name="Nombre" x="100.5" y="90" width="129" height="24" />
+        <text id="2004:11645" name="Correo" x="89.5" y="124" width="151" height="17" />
+      </frame>
+      <frame id="2004:11646" name="Tarjeta" x="0" y="161" width="330" height="291">
+        <frame id="2004:11647" name="Campo" x="0" y="0" width="330" height="73">
+          <frame id="2004:11648" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11649" name="Texto" x="20" y="16" width="290" height="40">
+              <text id="2004:11650" name="Etiqueta" x="0" y="0" width="290" height="16" />
+              <text id="2004:11651" name="Valor" x="0" y="21" width="290" height="19" />
+            </frame>
+          </frame>
+          <rounded-rectangle id="2004:11652" name="Divisor" x="0" y="72" width="330" height="1" />
+        </frame>
+        <frame id="2004:11653" name="Campo" x="0" y="73" width="330" height="73">
+          <frame id="2004:11654" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11655" name="Texto" x="20" y="16" width="290" height="40">
+              <text id="2004:11656" name="Etiqueta" x="0" y="0" width="290" height="16" />
+              <text id="2004:11657" name="Valor" x="0" y="21" width="290" height="19" />
+            </frame>
+          </frame>
+          <rounded-rectangle id="2004:11658" name="Divisor" x="0" y="72" width="330" height="1" />
+        </frame>
+        <frame id="2004:11659" name="Campo" x="0" y="146" width="330" height="73">
+          <frame id="2004:11660" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11661" name="Texto" x="20" y="16" width="290" height="40">
+              <text id="2004:11662" name="Etiqueta" x="0" y="0" width="290" height="16" />
+              <text id="2004:11663" name="Valor" x="0" y="21" width="290" height="19" />
+            </frame>
+          </frame>
+          <rounded-rectangle id="2004:11664" name="Divisor" x="0" y="72" width="330" height="1" />
+        </frame>
+        <frame id="2004:11665" name="Campo" x="0" y="219" width="330" height="72">
+          <frame id="2004:11666" name="Entrada" x="0" y="0" width="330" height="72">
+            <frame id="2004:11667" name="Texto" x="20" y="16" width="290" height="40">
+              <text id="2004:11668" name="Etiqueta" x="0" y="0" width="290" height="16" />
+              <text id="2004:11669" name="Valor" x="0" y="21" width="290" height="19" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2004:11670" name="Barra inferior" x="76" y="798" width="249" height="61">
+      <instance id="2004:11695" name="Fondo Liquid Glass" x="0" y="0" width="249" height="61" />
+      <instance id="2004:11681" name="Ajustes seleccionado" x="164" y="0" width="85" height="61" />
+      <frame id="2004:11678" name="Ajustes" x="196" y="18" width="25" height="25" />
+      <frame id="2004:11674" name="Actividad" x="114" y="18" width="22.5" height="22.5" />
+      <frame id="2004:11671" name="Wallet" x="30" y="18" width="25" height="23" />
+    </frame>
+  </frame>
+  <frame id="1:3" name="inicio" x="0" y="0" width="402" height="874">
+    <rounded-rectangle id="5:11" name="Ceero 1" x="131" y="357" width="160" height="160" />
+  </frame>
+  <frame id="14:40" name="cuentas cuentas" x="3536" y="0" width="402" height="1092">
+    <text id="21:51" name="¢ 830.000" x="40" y="122" width="322" height="86" />
+    <text id="21:52" name="Saldo total" x="64" y="220" width="274" height="27" />
+    <text id="22:241" name="Cuentas" x="86" y="352" width="115" height="27" />
+    <text id="26:664" name="Recientes" x="38" y="595" width="115" height="27" />
+    <text id="26:672" name="Suscripciones" x="38" y="728" width="151" height="27" />
+    <text id="22:242" name="Objetivos" x="201" y="352" width="115" height="27" />
+    <text id="21:59" name="Pigxel" x="39" y="45" width="93" height="27" />
+    <instance id="21:53" name="Button - Liquid Glass - Symbol" x="325" y="40" width="50" height="50" />
+    <instance id="2014:1874" name="Button - Liquid Glass - Symbol" x="283" y="40" width="50" height="50" />
+    <vector id="22:240" name="Vector" x="342" y="57" width="15" height="15" />
+    <line id="22:250" name="Line 1" x="119" y="382" width="50" height="0" />
+    <rounded-rectangle id="26:489" name="Rectangle 17" x="36" y="413" width="330" height="74" />
+    <rounded-rectangle id="26:506" name="Rectangle 20" x="36" y="494" width="330" height="74" />
+    <rounded-rectangle id="34:105" name="Rectangle 29" x="36" y="625" width="330" height="74" />
+    <rounded-rectangle id="34:106" name="Rectangle 30" x="36" y="766" width="330" height="74" />
+    <rounded-rectangle id="34:107" name="Rectangle 31" x="36" y="847" width="330" height="74" />
+    <text id="26:490" name="BCR" x="108" y="432" width="66" height="27" />
+    <text id="26:491" name="¢20.000" x="273" y="440" width="77" height="27" />
+    <text id="26:492" name="Banco de Costa Rica" x="107" y="454" width="152" height="27" />
+    <rounded-rectangle id="26:494" name="815 2" x="54" y="432" width="35" height="35" />
+    <rounded-rectangle id="26:504" name="1640 2" x="54" y="513" width="35" height="35" />
+    <text id="26:500" name="Efectivo" x="107" y="511" width="180" height="27" />
+    <text id="26:501" name="¢5.000" x="287" y="521" width="77" height="27" />
+    <text id="26:502" name="Billetera en efectivo" x="107" y="534" width="152" height="27" />
+    <text id="27:675" name="Spotify" x="103" y="785" width="66" height="27" />
+    <text id="27:676" name="¢1.000" x="273" y="795" width="77" height="27" />
+    <text id="27:677" name="Mensual" x="103" y="808" width="152" height="27" />
+    <text id="27:680" name="Claude Pro" x="103" y="861" width="180" height="27" />
+    <text id="27:681" name="¢4.500" x="273" y="870" width="77" height="27" />
+    <text id="27:682" name="Mensual" x="105" y="884" width="152" height="27" />
+    <text id="26:666" name="Supermercado" x="103" y="642" width="134" height="27" />
+    <text id="26:667" name="-¢18.000" x="271" y="650" width="90" height="27" />
+    <text id="26:668" name="Alimentación, 8:24 AM" x="103" y="664" width="152" height="27" />
+    <rounded-rectangle id="27:684" name="1638 1" x="54" y="785" width="35" height="35" />
+    <rounded-rectangle id="27:685" name="1638 2" x="54" y="866" width="35" height="35" />
+    <rounded-rectangle id="29:1046" name="2239 2" x="54" y="645" width="35" height="35" />
+  </frame>
+  <frame id="26:508" name="cuentas objetivos" x="3978" y="0" width="402" height="874">
+    <rounded-rectangle id="34:108" name="Rectangle 32" x="36" y="417" width="330" height="74" />
+    <rounded-rectangle id="34:109" name="Rectangle 33" x="36" y="501" width="330" height="74" />
+    <text id="26:509" name="¢ 830.000" x="39" y="124" width="323" height="86" />
+    <text id="26:510" name="Saldo total" x="64" y="220" width="274" height="27" />
+    <text id="26:511" name="Cuentas" x="86" y="352" width="115" height="27" />
+    <text id="26:512" name="Objetivos" x="201" y="352" width="115" height="27" />
+    <text id="26:513" name="Pigxel" x="39" y="45" width="93" height="27" />
+    <instance id="26:514" name="Button - Liquid Glass - Symbol" x="325" y="40" width="50" height="50" />
+    <vector id="26:515" name="Vector" x="342" y="57" width="15" height="15" />
+    <line id="26:578" name="Line 2" x="234" y="382" width="50" height="0" />
+    <text id="26:519" name="Viaje a la playa" x="107" y="434" width="137" height="27" />
+    <text id="26:573" name="Laptop" x="107" y="517" width="137" height="27" />
+    <text id="26:520" name="¢20.000" x="273" y="434" width="77" height="27" />
+    <text id="26:574" name="¢350.000" x="248" y="517" width="99" height="27" />
+    <text id="26:571" name="¢100.000" x="259" y="454" width="88" height="27" />
+    <text id="26:575" name="¢600.000" x="259" y="537" width="88" height="27" />
+    <rounded-rectangle id="26:569" name="1663 1" x="54" y="440" width="35" height="35" />
+    <rounded-rectangle id="26:576" name="1663 2" x="54" y="520" width="35" height="35" />
+    <text id="26:570" name="Objetivo:" x="107" y="457" width="152" height="27" />
+    <text id="26:577" name="Objetivo:" x="106" y="541" width="152" height="27" />
+    <instance id="2014:1893" name="Button - Liquid Glass - Symbol" x="282" y="40" width="50" height="50" />
+    <vector id="2014:1894" name="Vector" x="298" y="57" width="18" height="19" />
+  </frame>
+  <frame id="23:420" name="actividad" x="4420" y="0" width="402" height="965">
+    <text id="23:421" name="¢ 128.500" x="54" y="186" width="293" height="48" />
+    <text id="23:422" name="Gastos" x="65" y="160" width="274" height="27" />
+    <text id="23:425" name="Actividad" x="39" y="45" width="162" height="27" />
+    <instance id="23:426" name="Button - Liquid Glass - Symbol" x="325" y="40" width="50" height="50" />
+    <vector id="26:590" name="Vector" x="339" y="59" width="22.5" height="16.561784744262695" />
+    <rounded-rectangle id="26:591" name="Rectangle 17" x="39" y="98" width="253" height="48" />
+    <rounded-rectangle id="26:648" name="Rectangle 25" x="32" y="384" width="351" height="53" />
+    <rounded-rectangle id="34:110" name="Rectangle 34" x="36" y="483" width="330" height="74" />
+    <rounded-rectangle id="34:111" name="Rectangle 35" x="36" y="591" width="330" height="74" />
+    <rounded-rectangle id="34:112" name="Rectangle 36" x="36" y="671" width="330" height="74" />
+    <rounded-rectangle id="34:113" name="Rectangle 37" x="36" y="751" width="330" height="74" />
+    <rounded-rectangle id="26:592" name="Rectangle 18" x="42" y="100" width="85" height="44" />
+    <text id="26:593" name="Gastos" x="59" y="113" width="52" height="18" />
+    <text id="26:662" name="Ingresos" x="140" y="113" width="52" height="18" />
+    <text id="26:663" name="Ambos" x="221" y="113" width="52" height="18" />
+    <text id="26:626" name="Hoy" x="18" y="455" width="52" height="18" />
+    <text id="26:627" name="Ayer" x="18" y="563" width="52" height="18" />
+    <rounded-rectangle id="26:614" name="Screenshot 2026-10-04 at 7.19.42 PM 1" x="45" y="238" width="312" height="124" />
+    <text id="26:617" name="Supermercado" x="109" y="501" width="134" height="27" />
+    <text id="26:629" name="Café" x="100" y="610" width="134" height="27" />
+    <text id="26:634" name="Salario" x="100" y="688" width="134" height="27" />
+    <text id="26:639" name="Combustible" x="100" y="769" width="134" height="27" />
+    <text id="26:618" name="-¢18.000" x="276" y="511" width="90" height="27" />
+    <text id="26:630" name="-¢750" x="267" y="618" width="90" height="27" />
+    <text id="26:635" name="+¢718.000" x="252" y="698" width="105" height="27" />
+    <text id="26:640" name="-¢26.100" x="267" y="775" width="90" height="27" />
+    <text id="26:619" name="Compras, 8:24 AM" x="109" y="523" width="152" height="27" />
+    <text id="26:631" name="Alimentación, 4:24 PM" x="100" y="634" width="152" height="27" />
+    <text id="26:636" name="Ingreso, 1:10 PM" x="100" y="709" width="152" height="27" />
+    <text id="26:641" name="Transporte, 6:38 AM" x="100" y="792" width="152" height="27" />
+    <vector id="27:698" name="Vector" x="61" y="402" width="18.75" height="18.75" />
+    <rounded-rectangle id="29:1042" name="2239 1" x="52" y="501" width="35" height="35" />
+    <rounded-rectangle id="29:1043" name="1635 1" x="52" y="688" width="35" height="35" />
+    <rounded-rectangle id="29:1044" name="62 1" x="52" y="610" width="35" height="35" />
+    <rounded-rectangle id="29:1045" name="2112 1" x="52" y="765" width="35" height="35" />
+  </frame>
+  <frame id="35:114" name="ajustes" x="4862" y="0" width="402" height="1248">
+    <frame id="41:1001" name="Frame 1" x="0" y="0" width="402" height="1248">
+      <rounded-rectangle id="35:299" name="Rectangle 47" x="39" y="132" width="328" height="200" />
+      <rounded-rectangle id="35:362" name="Rectangle 62" x="39" y="399" width="328" height="335" />
+      <rounded-rectangle id="35:363" name="Rectangle 63" x="39" y="801" width="328" height="335" />
+      <text id="35:118" name="Ajustes" x="39" y="45" width="162" height="27" />
+      <text id="35:119" name="Cuenta" x="39" y="100" width="137" height="27" />
+      <vector id="35:285" name="Rectangle 48" x="47" y="140" width="50" height="50" />
+      <vector id="35:304" name="Rectangle 49" x="47" y="207" width="50" height="50" />
+      <vector id="35:306" name="Rectangle 50" x="47" y="274" width="50" height="50" />
+      <vector id="35:310" name="Rectangle 52" x="47" y="408" width="50" height="50" />
+      <vector id="35:312" name="Rectangle 53" x="47" y="475" width="50" height="50" />
+      <vector id="35:314" name="Rectangle 54" x="47" y="542" width="50" height="50" />
+      <vector id="35:316" name="Rectangle 55" x="47" y="609" width="50" height="50" />
+      <vector id="35:318" name="Rectangle 56" x="47" y="676" width="50" height="50" />
+      <vector id="35:320" name="Rectangle 57" x="47" y="1078" width="50" height="50" />
+      <vector id="35:322" name="Rectangle 58" x="47" y="810" width="50" height="50" />
+      <vector id="35:324" name="Rectangle 59" x="47" y="877" width="50" height="50" />
+      <vector id="35:326" name="Rectangle 60" x="47" y="944" width="50" height="50" />
+      <vector id="35:328" name="Rectangle 61" x="47" y="1011" width="50" height="50" />
+      <vector id="35:291" name="Vector" x="66" y="158" width="11.666666030883789" height="13.333333015441895" />
+      <text id="35:202" name="Información personal" x="113" y="156" width="175" height="27" />
+      <text id="35:334" name="Correo electrónico" x="113" y="223" width="175" height="27" />
+      <text id="35:335" name="Contraseña" x="113" y="290" width="175" height="27" />
+      <text id="35:337" name="Moneda" x="113" y="424" width="175" height="27" />
+      <text id="35:338" name="Límite" x="113" y="491" width="175" height="27" />
+      <text id="35:339" name="Categorias" x="113" y="558" width="175" height="27" />
+      <text id="35:340" name="Suscripciones" x="113" y="625" width="175" height="27" />
+      <text id="35:341" name="Objetivos" x="113" y="692" width="175" height="27" />
+      <text id="35:342" name="Ayuda" x="113" y="1094" width="175" height="27" />
+      <text id="35:343" name="Notificaciones" x="113" y="826" width="175" height="27" />
+      <text id="35:344" name="Apariencia" x="113" y="893" width="175" height="27" />
+      <text id="35:345" name="Idioma" x="113" y="960" width="175" height="27" />
+      <text id="35:346" name="Privacidad" x="113" y="1027" width="175" height="27" />
+      <frame id="35:216" name="Group" x="64" y="226" width="16.66666603088379" height="11.666666030883789" />
+      <vector id="35:219" name="Vector" x="64" y="297" width="16.66666603088379" height="6.666666507720947" />
+      <vector id="35:238" name="Line 3" x="99" y="198.0436553955078" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:348" name="Line 4" x="99" y="265.04364013671875" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:351" name="Line 7" x="99" y="466.04364013671875" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:352" name="Line 8" x="99" y="533.0436401367188" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:353" name="Line 9" x="99" y="600.0436401367188" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:354" name="Line 10" x="99" y="667.0436401367188" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:357" name="Line 13" x="99" y="868.0436401367188" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:358" name="Line 14" x="99" y="935.0436401367188" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:359" name="Line 15" x="99" y="1002.0436401367188" width="267.99981689453125" height="0.04365003037059978" />
+      <vector id="35:360" name="Line 16" x="99" y="1069.0435791015625" width="267.99981689453125" height="0.04365003037059978" />
+      <text id="35:188" name="App" x="38" y="767" width="137" height="27" />
+      <text id="35:187" name="Finanzas" x="39" y="365" width="137" height="27" />
+      <instance id="35:248" name="Button - Liquid Glass - Text" x="76" y="1172" width="249" height="61" />
+      <instance id="35:249" name="Button - Liquid Glass - Text" x="240" y="1172" width="85" height="61" />
+      <frame id="35:250" name="Group" x="106" y="1190" width="24.375" height="22.18555450439453" />
+      <frame id="35:253" name="Group" x="190" y="1189" width="22.5" height="22.5" />
+      <frame id="35:257" name="Group" x="272" y="1189" width="25.061912536621094" height="25.022062301635742" />
+      <frame id="35:230" name="Group" x="64" y="1095" width="16.66666603088379" height="16.66666603088379" />
+      <frame id="35:234" name="Group" x="64" y="961" width="16.66666603088379" height="16.66666603088379" />
+      <vector id="35:237" name="Vector" x="66" y="894" width="15.000000953674316" height="15.005146026611328" />
+      <vector id="35:233" name="Vector" x="64" y="827" width="15.833333015441895" height="16.663713455200195" />
+      <frame id="35:226" name="Group" x="65" y="426" width="15" height="13.663702011108398" />
+      <vector id="35:225" name="Vector" x="64" y="494" width="15" height="11.666666030883789" />
+      <frame id="35:222" name="Group" x="65" y="559" width="15.207362174987793" height="16.560630798339844" />
+      <vector id="35:221" name="Vector" x="64" y="628" width="16.66666603088379" height="11.666666030883789" />
+      <vector id="35:220" name="Vector" x="63" y="692" width="15.833333015441895" height="17.5" />
+      <vector id="35:377" name="Vector" x="66" y="1028" width="12.5" height="16.66666603088379" />
+      <vector id="35:379" name="Vector" x="349" y="170" width="5" height="10" />
+      <vector id="35:380" name="Vector" x="349" y="237" width="5" height="10" />
+      <vector id="35:381" name="Vector" x="349" y="304" width="5" height="10" />
+      <vector id="35:383" name="Vector" x="349" y="438" width="5" height="10" />
+      <vector id="35:384" name="Vector" x="349" y="505" width="5" height="10" />
+      <vector id="35:385" name="Vector" x="349" y="572" width="5" height="10" />
+      <vector id="35:386" name="Vector" x="349" y="639" width="5" height="10" />
+      <vector id="35:387" name="Vector" x="349" y="706" width="5" height="10" />
+      <vector id="35:389" name="Vector" x="349" y="840" width="5" height="10" />
+      <vector id="35:390" name="Vector" x="349" y="907" width="5" height="10" />
+      <vector id="35:391" name="Vector" x="349" y="974" width="5" height="10" />
+      <vector id="35:392" name="Vector" x="349" y="1041" width="5" height="10" />
+      <vector id="35:393" name="Vector" x="349" y="1108" width="5" height="10" />
+    </frame>
+  </frame>
+  <frame id="7:201" name="bienvenida" x="446" y="0" width="402" height="874">
+    <rounded-rectangle id="7:209" name="fondoor 1" x="-4" y="-5" width="409" height="883" />
+    <rounded-rectangle id="7:210" name="Rectangle 1" x="51" y="676" width="300" height="60" />
+    <rounded-rectangle id="7:211" name="Rectangle 2" x="47" y="751" width="300" height="60" />
+    <text id="7:223" name="Iniciar sesión" x="160" y="769" width="115" height="24" />
+    <text id="7:212" name="Crear cuenta" x="144" y="694" width="114" height="24" />
+    <vector id="7:221" name="Read-Email-At-Alternate--Streamline-Ultimate 1" x="72" y="682" width="48" height="48" />
+    <text id="7:226" name="Todo tu panorama financiero en un solo lugar." x="52" y="410" width="306" height="192" />
+    <frame id="7:228" name="Arrow-Forward Streamline Sharp-Streamline-Material" x="334" y="521" width="48" height="48" />
+    <frame id="8:240" name="Alternate-Email Streamline Sharp-Streamline-Material" x="127" y="769" width="22" height="24">
+      <rounded-rectangle id="8:239" name="Alternate-Email Streamline Sharp-Streamline-Material" x="127" y="769" width="22" height="24" />
+    </frame>
+  </frame>
+  <frame id="7:205" name="crear cuenta" x="884" y="0" width="402" height="874">
+    <text id="9:3" name="Crear cuenta" x="42" y="95" width="236" height="48" />
+    <text id="9:7" name="Comienza a gestionar tu dinero de forma simple." x="42" y="153" width="324" height="48" />
+    <text id="9:222" name="¿Ya tienes una cuenta? Iniciar sesión" x="56" y="715" width="290" height="19" />
+    <rounded-rectangle id="9:8" name="Rectangle 3" x="36" y="234" width="330" height="60" />
+    <rounded-rectangle id="9:148" name="Rectangle 8" x="36" y="319" width="330" height="60" />
+    <rounded-rectangle id="9:153" name="Rectangle 10" x="36" y="404" width="330" height="60" />
+    <rounded-rectangle id="9:158" name="Rectangle 12" x="36" y="489" width="330" height="60" />
+    <rounded-rectangle id="9:41" name="Rectangle 7" x="36" y="234" width="330" height="60" />
+    <rounded-rectangle id="9:149" name="Rectangle 9" x="36" y="319" width="330" height="60" />
+    <rounded-rectangle id="9:154" name="Rectangle 11" x="36" y="404" width="330" height="60" />
+    <rounded-rectangle id="9:159" name="Rectangle 13" x="36" y="489" width="330" height="60" />
+    <text id="9:9" name="Nombre" x="89" y="254" width="170" height="19" />
+    <text id="9:150" name="Correo electrónico" x="89" y="339" width="170" height="19" />
+    <text id="9:155" name="Contraseña" x="89" y="424" width="170" height="19" />
+    <text id="9:160" name="Confirmar contraseña" x="89" y="509" width="170" height="19" />
+    <rounded-rectangle id="9:165" name="Rectangle 3" x="36" y="593" width="330" height="60" />
+    <text id="9:166" name="Crear cuenta" x="144" y="611" width="114" height="24" />
+    <frame id="9:185" name="user" x="60" y="253" width="20" height="20" />
+    <frame id="9:187" name="mail" x="60" y="339" width="20" height="20" />
+    <frame id="9:191" name="lock" x="60" y="423" width="20" height="20" />
+    <frame id="9:193" name="lock" x="60" y="508" width="20" height="20" />
+    <vector id="9:232" name="Vector" x="331" y="616" width="15" height="14.166666030883789" />
+    <vector id="9:436" name="Vector" x="41" y="37" width="15" height="14.166666030883789" />
+  </frame>
+  <frame id="9:195" name="inicio sesion" x="1326" y="0" width="402" height="874">
+    <text id="9:196" name="Iniciar Sesión" x="42" y="95" width="243" height="48" />
+    <text id="9:197" name="Bienvenido de nuevo. Ingresa tu cuenta." x="42" y="153" width="324" height="48" />
+    <rounded-rectangle id="9:198" name="Rectangle 3" x="36" y="234" width="330" height="60" />
+    <rounded-rectangle id="9:199" name="Rectangle 8" x="36" y="319" width="330" height="60" />
+    <rounded-rectangle id="9:202" name="Rectangle 7" x="36" y="234" width="330" height="60" />
+    <rounded-rectangle id="9:203" name="Rectangle 9" x="36" y="319" width="330" height="60" />
+    <text id="9:207" name="Correo electrónico" x="89" y="254" width="170" height="19" />
+    <text id="9:208" name="Contraseña" x="89" y="339" width="170" height="19" />
+    <frame id="9:214" name="mail" x="60" y="254" width="20" height="20" />
+    <frame id="9:218" name="lock" x="60" y="339" width="20" height="20" />
+    <rounded-rectangle id="9:235" name="Rectangle 14" x="36" y="474" width="330" height="60" />
+    <text id="9:236" name="Iniciar Sesión" x="145" y="492" width="118" height="24" />
+    <vector id="9:237" name="Vector" x="331" y="497" width="15" height="14.166666030883789" />
+    <text id="9:238" name="Olvidé mi contraseña" x="129" y="396" width="290" height="17" />
+    <frame id="9:255" name="eye" x="320" y="339" width="20" height="20" />
+    <text id="9:259" name="¿No tienes cuenta? Crear cuenta" x="56" y="587" width="290" height="19" />
+    <instance id="9:431" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="9:446" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+  </frame>
+  <frame id="9:448" name="recuperar contraseña" x="1768" y="0" width="402" height="874">
+    <text id="9:449" name="Recuperar tu contraseña" x="42" y="95" width="360" height="96" />
+    <text id="9:450" name="Ingresa tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña." x="42" y="206" width="324" height="72" />
+    <rounded-rectangle id="9:451" name="Rectangle 3" x="36" y="322" width="330" height="60" />
+    <rounded-rectangle id="9:453" name="Rectangle 7" x="36" y="322" width="330" height="60" />
+    <text id="9:456" name="Correo electrónico" x="89" y="342" width="170" height="19" />
+    <frame id="9:458" name="mail" x="60" y="342" width="20" height="20" />
+    <rounded-rectangle id="9:464" name="Rectangle 14" x="36" y="437" width="330" height="60" />
+    <text id="9:465" name="Enviar enlace" x="142" y="455" width="118" height="24" />
+    <vector id="9:466" name="Vector" x="331" y="460" width="15" height="14.166666030883789" />
+    <instance id="9:473" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="9:474" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+  </frame>
+  <frame id="9:513" name="nueva contraseña" x="2652" y="0" width="402" height="874">
+    <text id="9:514" name="Crea tu nueva contraseña" x="42" y="95" width="360" height="96" />
+    <text id="9:515" name="Tu contraseña debe ser segura. Asegurate de no olvidarla." x="42" y="206" width="324" height="48" />
+    <rounded-rectangle id="9:516" name="Rectangle 3" x="36" y="322" width="330" height="60" />
+    <rounded-rectangle id="9:534" name="Rectangle 15" x="36" y="407" width="330" height="60" />
+    <rounded-rectangle id="9:517" name="Rectangle 7" x="36" y="322" width="330" height="60" />
+    <rounded-rectangle id="9:535" name="Rectangle 16" x="36" y="407" width="330" height="60" />
+    <text id="9:518" name="Nueva contraseña" x="89" y="342" width="170" height="19" />
+    <text id="9:536" name="Confirmar contraseña" x="89" y="427" width="170" height="19" />
+    <rounded-rectangle id="9:523" name="Rectangle 14" x="36" y="555" width="330" height="60" />
+    <text id="9:524" name="Continuar" x="157" y="573" width="88" height="24" />
+    <vector id="9:525" name="Vector" x="331" y="578" width="15" height="14.166666030883789" />
+    <instance id="9:526" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="9:527" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <frame id="9:532" name="lock" x="60" y="342" width="20" height="20" />
+    <frame id="9:537" name="lock" x="60" y="427" width="20" height="20" />
+  </frame>
+  <frame id="9:539" name="error404" x="3094" y="0" width="402" height="874">
+    <text id="9:540" name="Error 404" x="42" y="102" width="360" height="48" />
+    <text id="9:541" name="La aplicación no responde" x="42" y="150" width="324" height="24" />
+    <instance id="9:551" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="9:552" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+  </frame>
+  <frame id="9:479" name="codigo de verificación" x="2210" y="0" width="402" height="874">
+    <text id="9:480" name="Ingresa el código de verificación" x="42" y="95" width="324" height="96" />
+    <text id="9:481" name="Hemos enviado un código de 6 dígitos a tu correo electrónico." x="42" y="259" width="324" height="48" />
+    <rounded-rectangle id="9:489" name="Rectangle 14" x="36" y="548" width="330" height="60" />
+    <text id="9:490" name="Continuar" x="157" y="566" width="88" height="24" />
+    <vector id="9:491" name="Vector" x="331" y="571" width="15" height="14.166666030883789" />
+    <instance id="9:492" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="9:493" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <text id="9:498" name="¿No recibiste el código? Reenviar en 00:59" x="27" y="459" width="347" height="19" />
+    <rounded-rectangle id="9:499" name="Rectangle 15" x="95" y="339" width="49" height="77" />
+    <vector id="9:506" name="Rectangle 16" x="42" y="339" width="48" height="77" />
+    <text id="9:512" name="l" x="62" y="354" width="9" height="48" />
+    <vector id="9:507" name="Rectangle 17" x="149" y="339" width="49" height="77" />
+    <vector id="9:508" name="Rectangle 18" x="203" y="339" width="49" height="77" />
+    <vector id="9:509" name="Rectangle 19" x="257" y="339" width="48" height="77" />
+    <vector id="9:510" name="Rectangle 20" x="310" y="339" width="49" height="77" />
+  </frame>
+  <instance id="9:409" name="Button - Liquid Glass - Symbol" x="910" y="20" width="50" height="50" />
+  <frame id="9:445" name="nav-arrow-left" x="1348.47021484375" y="0" width="25" height="25" />
+  <vector id="9:447" name="Vector" x="932" y="39" width="6.25" height="12.5" />
+  <instance id="22:176" name="Button - Liquid Glass - Text" x="3570" y="265" width="107" height="50" />
+  <instance id="26:527" name="Button - Liquid Glass - Text" x="4012" y="265" width="107" height="50" />
+  <instance id="22:279" name="Button - Liquid Glass - Text" x="3612" y="982" width="249" height="61" />
+  <instance id="26:528" name="Button - Liquid Glass - Text" x="4053" y="759" width="249" height="61" />
+  <instance id="23:430" name="Button - Liquid Glass - Text" x="4496" y="864" width="249" height="61" />
+  <instance id="22:229" name="Button - Liquid Glass - Text" x="3684" y="265" width="93" height="50" />
+  <instance id="26:529" name="Button - Liquid Glass - Text" x="4126" y="265" width="93" height="50" />
+  <instance id="22:285" name="Button - Liquid Glass - Text" x="3612" y="982" width="85" height="61" />
+  <instance id="26:530" name="Button - Liquid Glass - Text" x="4053" y="759" width="85" height="61" />
+  <instance id="23:432" name="Button - Liquid Glass - Text" x="4579" y="864" width="85" height="61" />
+  <instance id="22:243" name="Button - Liquid Glass - Text" x="3784" y="265" width="120" height="50" />
+  <instance id="26:531" name="Button - Liquid Glass - Text" x="4226" y="265" width="120" height="50" />
+  <frame id="22:301" name="wallet-solid" x="3393" y="106" width="20" height="20" />
+  <frame id="22:306" name="Group" x="3643" y="1002" width="24.375" height="22.18555450439453" />
+  <frame id="26:532" name="Group" x="4084" y="779" width="24.375" height="22.18555450439453" />
+  <frame id="23:323" name="Group" x="3809" y="1000" width="25.061912536621094" height="25.022062301635742" />
+  <frame id="26:535" name="Group" x="4250" y="777" width="25.061912536621094" height="25.022062301635742" />
+  <frame id="23:437" name="Group" x="4693" y="882" width="25.061912536621094" height="25.022062301635742" />
+  <frame id="23:327" name="Group" x="3727" y="1001" width="22.5" height="22.5" />
+  <frame id="26:538" name="Group" x="4168" y="778" width="22.5" height="22.5" />
+  <frame id="22:310" name="Group" x="4611" y="883" width="22.5" height="22.5" />
+  <frame id="23:319" name="Group" x="4526" y="882" width="24.375" height="22.18555450439453" />
+  <text id="27:686" name="Buscar" x="4516" y="399" width="105" height="19" />
+  <frame id="38:395" name="agregar" x="5304" y="0" width="402" height="874">
+    <rounded-rectangle id="38:396" name="Rectangle 32" x="36" y="175" width="330" height="74" />
+    <rounded-rectangle id="38:397" name="Rectangle 33" x="36" y="267" width="330" height="74" />
+    <rounded-rectangle id="38:465" name="Rectangle 34" x="36" y="359" width="330" height="74" />
+    <rounded-rectangle id="38:468" name="Rectangle 35" x="36" y="451" width="330" height="74" />
+    <text id="38:402" name="Agregar" x="48" y="98" width="118" height="27" />
+    <instance id="38:403" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <text id="38:406" name="Cuenta" x="111" y="198" width="137" height="27" />
+    <text id="38:464" name="Categoría" x="111" y="290" width="137" height="27" />
+    <text id="38:466" name="Suscripción" x="111" y="382" width="137" height="27" />
+    <text id="38:469" name="Objetivo" x="111" y="474" width="137" height="27" />
+    <vector id="38:463" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <vector id="38:470" name="Vector" x="323" y="204" width="15" height="15" />
+    <vector id="38:471" name="Vector" x="321" y="296" width="15" height="15" />
+    <vector id="38:472" name="Vector" x="319" y="388" width="15" height="15" />
+    <vector id="38:473" name="Vector" x="317" y="480" width="15" height="15" />
+    <vector id="38:474" name="Rectangle 64" x="48" y="187" width="50" height="50" />
+    <vector id="38:475" name="Rectangle 65" x="48" y="279" width="50" height="50" />
+    <vector id="38:476" name="Rectangle 66" x="48" y="371" width="50" height="50" />
+    <vector id="38:477" name="Rectangle 67" x="48" y="463" width="50" height="50" />
+    <frame id="38:493" name="Group" x="61" y="201" width="23.75" height="22.5" />
+    <frame id="38:498" name="Group" x="63" y="294" width="20" height="20.560630798339844" />
+    <vector id="38:501" name="Vector" x="63" y="389" width="20" height="13" />
+    <vector id="38:502" name="Vector" x="58" y="478" width="20" height="20" />
+    <rounded-rectangle id="38:653" name="Rectangle 68" x="36" y="175" width="330" height="74" />
+    <rounded-rectangle id="38:654" name="Rectangle 69" x="36" y="267" width="330" height="74" />
+    <rounded-rectangle id="38:655" name="Rectangle 70" x="36" y="359" width="330" height="74" />
+    <rounded-rectangle id="38:656" name="Rectangle 71" x="36" y="451" width="330" height="74" />
+    <text id="38:657" name="Cuenta" x="111" y="198" width="137" height="27" />
+    <text id="38:658" name="Categoría" x="111" y="290" width="137" height="27" />
+    <text id="38:659" name="Suscripción" x="111" y="382" width="137" height="27" />
+    <text id="38:660" name="Objetivo" x="111" y="474" width="137" height="27" />
+    <vector id="38:661" name="Vector" x="323" y="204" width="15" height="15" />
+    <vector id="38:662" name="Vector" x="321" y="296" width="15" height="15" />
+    <vector id="38:663" name="Vector" x="319" y="388" width="15" height="15" />
+    <vector id="38:664" name="Vector" x="317" y="480" width="15" height="15" />
+    <vector id="38:665" name="Rectangle 72" x="48" y="187" width="50" height="50" />
+    <vector id="38:666" name="Rectangle 73" x="48" y="279" width="50" height="50" />
+    <vector id="38:667" name="Rectangle 74" x="48" y="371" width="50" height="50" />
+    <vector id="38:668" name="Rectangle 75" x="48" y="463" width="50" height="50" />
+    <frame id="38:669" name="Group" x="61" y="201" width="23.75" height="22.5" />
+    <frame id="38:674" name="Group" x="63" y="294" width="20" height="20.560630798339844" />
+    <vector id="38:677" name="Vector" x="63" y="389" width="20" height="13" />
+    <vector id="38:678" name="Vector" x="58" y="478" width="20" height="20" />
+  </frame>
+  <frame id="41:853" name="cuentas" x="7956" y="0" width="402" height="874">
+    <rounded-rectangle id="41:854" name="Rectangle 32" x="36" y="172" width="330" height="74" />
+    <rounded-rectangle id="41:855" name="Rectangle 33" x="36" y="264" width="330" height="74" />
+    <text id="41:858" name="Cuentas" x="45" y="98" width="165" height="27" />
+    <instance id="41:859" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <text id="41:860" name="Cuenta" x="111" y="195" width="137" height="27" />
+    <text id="41:861" name="Categoría" x="111" y="287" width="137" height="27" />
+    <vector id="41:864" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <vector id="41:865" name="Vector" x="323" y="201" width="15" height="15" />
+    <vector id="41:866" name="Vector" x="321" y="293" width="15" height="15" />
+    <vector id="41:869" name="Rectangle 64" x="48" y="184" width="50" height="50" />
+    <vector id="41:870" name="Rectangle 65" x="48" y="276" width="50" height="50" />
+    <frame id="41:873" name="Group" x="61" y="198" width="23.75" height="22.5" />
+    <frame id="41:878" name="Group" x="63" y="291" width="20" height="20.560630798339844" />
+    <rounded-rectangle id="41:883" name="Rectangle 68" x="36" y="172" width="330" height="74" />
+    <rounded-rectangle id="41:884" name="Rectangle 69" x="36" y="264" width="330" height="74" />
+    <text id="41:887" name="BCR" x="111" y="195" width="137" height="27" />
+    <text id="41:888" name="Efectivo" x="111" y="287" width="137" height="27" />
+    <vector id="41:895" name="Rectangle 72" x="48" y="184" width="50" height="50" />
+    <vector id="41:896" name="Rectangle 73" x="48" y="276" width="50" height="50" />
+    <rounded-rectangle id="41:972" name="815 2" x="58" y="192" width="30" height="30" />
+    <rounded-rectangle id="41:974" name="1640 2" x="58" y="286" width="30" height="30" />
+  </frame>
+  <frame id="41:922" name="categorias" x="8398" y="0" width="402" height="874">
+    <rounded-rectangle id="41:923" name="Rectangle 32" x="36" y="172" width="330" height="74" />
+    <rounded-rectangle id="41:924" name="Rectangle 33" x="36" y="264" width="330" height="74" />
+    <rounded-rectangle id="41:925" name="Rectangle 34" x="36" y="356" width="330" height="74" />
+    <rounded-rectangle id="41:926" name="Rectangle 35" x="36" y="448" width="330" height="74" />
+    <text id="41:927" name="Categorías" x="45" y="98" width="165" height="27" />
+    <instance id="41:928" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <text id="41:929" name="Cuenta" x="111" y="195" width="137" height="27" />
+    <text id="41:930" name="Categoría" x="111" y="287" width="137" height="27" />
+    <text id="41:931" name="Suscripción" x="111" y="379" width="137" height="27" />
+    <text id="41:932" name="Objetivo" x="111" y="471" width="137" height="27" />
+    <vector id="41:933" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <vector id="41:934" name="Vector" x="323" y="201" width="15" height="15" />
+    <vector id="41:935" name="Vector" x="321" y="293" width="15" height="15" />
+    <vector id="41:936" name="Vector" x="319" y="385" width="15" height="15" />
+    <vector id="41:937" name="Vector" x="317" y="477" width="15" height="15" />
+    <vector id="41:938" name="Rectangle 64" x="48" y="184" width="50" height="50" />
+    <vector id="41:939" name="Rectangle 65" x="48" y="276" width="50" height="50" />
+    <vector id="41:940" name="Rectangle 66" x="48" y="368" width="50" height="50" />
+    <vector id="41:941" name="Rectangle 67" x="48" y="460" width="50" height="50" />
+    <frame id="41:942" name="Group" x="61" y="198" width="23.75" height="22.5" />
+    <frame id="41:947" name="Group" x="63" y="291" width="20" height="20.560630798339844" />
+    <vector id="41:950" name="Vector" x="63" y="386" width="20" height="13" />
+    <vector id="41:951" name="Vector" x="58" y="475" width="20" height="20" />
+    <rounded-rectangle id="41:952" name="Rectangle 68" x="36" y="172" width="330" height="74" />
+    <rounded-rectangle id="41:953" name="Rectangle 69" x="36" y="264" width="330" height="74" />
+    <rounded-rectangle id="41:954" name="Rectangle 70" x="36" y="356" width="330" height="74" />
+    <rounded-rectangle id="41:955" name="Rectangle 71" x="36" y="448" width="330" height="74" />
+    <text id="41:956" name="Alimentación" x="111" y="195" width="137" height="27" />
+    <text id="41:957" name="Compras" x="111" y="287" width="137" height="27" />
+    <text id="41:958" name="Transporte" x="111" y="379" width="137" height="27" />
+    <text id="41:959" name="Otros" x="111" y="471" width="137" height="27" />
+    <vector id="41:960" name="Rectangle 72" x="48" y="184" width="50" height="50" />
+    <vector id="41:961" name="Rectangle 73" x="48" y="276" width="50" height="50" />
+    <vector id="41:962" name="Rectangle 74" x="48" y="368" width="50" height="50" />
+    <vector id="41:963" name="Rectangle 75" x="48" y="460" width="50" height="50" />
+    <rounded-rectangle id="41:964" name="2239 2" x="58" y="285" width="30" height="30" />
+    <rounded-rectangle id="41:965" name="62 1" x="58" y="194" width="30" height="30" />
+    <rounded-rectangle id="41:966" name="2112 1" x="58" y="373" width="30" height="30" />
+    <rounded-rectangle id="41:967" name="1660 1" x="58" y="470" width="30" height="30" />
+  </frame>
+  <frame id="38:571" name="nueva cuenta" x="5746" y="0" width="402" height="874">
+    <text id="38:576" name="Nueva cuenta" x="45" y="98" width="211" height="27" />
+    <instance id="38:577" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="38:582" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="38:607" name="Rectangle 14" x="36" y="172" width="330" height="60" />
+    <rounded-rectangle id="38:611" name="Rectangle 7" x="36" y="172" width="330" height="60" />
+    <text id="38:615" name="Nombre" x="59" y="192" width="170" height="19" />
+    <rounded-rectangle id="38:619" name="Rectangle 3" x="42" y="437" width="330" height="60" />
+    <text id="38:620" name="Crear" x="183" y="455" width="49" height="24" />
+    <vector id="38:636" name="Vector" x="335" y="460" width="15" height="14.166666030883789" />
+  </frame>
+  <frame id="38:686" name="nueva categoria" x="6188" y="0" width="402" height="874">
+    <text id="38:687" name="Nueva categoría" x="48" y="98" width="242" height="27" />
+    <instance id="38:688" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="38:689" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="38:690" name="Rectangle 14" x="36" y="278" width="330" height="60" />
+    <rounded-rectangle id="38:700" name="Rectangle 15" x="160" y="172" width="80" height="80" />
+    <rounded-rectangle id="38:691" name="Rectangle 7" x="36" y="278" width="330" height="60" />
+    <text id="38:692" name="Nombre" x="59" y="298" width="170" height="19" />
+    <rounded-rectangle id="38:693" name="Rectangle 3" x="36" y="440" width="330" height="60" />
+    <text id="38:694" name="Crear" x="177" y="458" width="49" height="24" />
+    <vector id="38:695" name="Vector" x="329" y="463" width="15" height="14.166666030883789" />
+    <frame id="38:710" name="Group" x="183" y="195" width="33.33333206176758" height="33.33333206176758" />
+  </frame>
+  <frame id="38:714" name="nueva suscripción" x="6630" y="0" width="402" height="874">
+    <text id="38:715" name="Nueva suscripción" x="45" y="98" width="275" height="27" />
+    <instance id="38:716" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="38:717" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="38:718" name="Rectangle 14" x="36" y="172" width="330" height="60" />
+    <rounded-rectangle id="38:788" name="Rectangle 21" x="36" y="253" width="330" height="60" />
+    <rounded-rectangle id="38:720" name="Rectangle 7" x="36" y="172" width="330" height="60" />
+    <rounded-rectangle id="38:789" name="Rectangle 22" x="36" y="253" width="330" height="60" />
+    <text id="38:721" name="Nombre" x="59" y="192" width="194" height="19" />
+    <text id="38:790" name="Costo" x="59" y="273" width="194" height="19" />
+    <text id="38:743" name="Plan" x="59" y="452" width="194" height="19" />
+    <rounded-rectangle id="38:722" name="Rectangle 3" x="36" y="653" width="330" height="60" />
+    <text id="38:723" name="Crear" x="177" y="671" width="49" height="24" />
+    <vector id="38:724" name="Vector" x="329" y="676" width="15" height="14.166666030883789" />
+    <text id="38:757" name="Estado" x="59" y="346" width="194" height="19" />
+    <rounded-rectangle id="38:758" name="Rectangle 19" x="36" y="373" width="252" height="48" />
+    <vector id="38:759" name="Rectangle 20" x="39" y="375" width="126" height="44" />
+    <text id="38:760" name="Activo" x="76" y="388" width="52" height="18" />
+    <text id="38:761" name="Inactivo" x="196" y="388" width="52" height="18" />
+    <rounded-rectangle id="38:744" name="Rectangle 17" x="39" y="477" width="253" height="48" />
+    <rounded-rectangle id="38:745" name="Rectangle 18" x="42" y="479" width="85" height="44" />
+    <text id="38:746" name="Semanal" x="59" y="492" width="52" height="18" />
+    <text id="38:747" name="Mensual" x="140" y="492" width="52" height="18" />
+    <text id="38:748" name="Anual" x="221" y="492" width="52" height="18" />
+  </frame>
+  <frame id="38:763" name="nuevo objetivo" x="7072" y="0" width="402" height="874">
+    <text id="38:764" name="Nuevo objetivo" x="48" y="98" width="275" height="27" />
+    <instance id="38:765" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="38:766" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="38:767" name="Rectangle 14" x="36" y="169" width="330" height="60" />
+    <rounded-rectangle id="40:793" name="Rectangle 15" x="36" y="250" width="330" height="60" />
+    <rounded-rectangle id="40:796" name="Rectangle 17" x="38" y="327" width="325" height="60" />
+    <rounded-rectangle id="38:768" name="Rectangle 7" x="36" y="169" width="330" height="60" />
+    <rounded-rectangle id="40:794" name="Rectangle 16" x="37" y="248" width="330" height="60" />
+    <rounded-rectangle id="40:797" name="Rectangle 18" x="42" y="327" width="330" height="60" />
+    <text id="38:769" name="Nombre" x="60" y="190" width="194" height="19" />
+    <text id="40:795" name="Monto objetivo" x="60" y="268" width="194" height="19" />
+    <text id="40:798" name="Monto inicial" x="60" y="347" width="194" height="19" />
+    <rounded-rectangle id="38:771" name="Rectangle 3" x="37" y="485" width="330" height="60" />
+    <text id="38:772" name="Crear" x="178" y="503" width="49" height="24" />
+    <vector id="38:773" name="Vector" x="330" y="508" width="15" height="14.166666030883789" />
+  </frame>
+  <frame id="41:828" name="agregar ingreso" x="7514" y="0" width="402" height="874">
+    <text id="41:829" name="Agregar ingreso" x="45" y="98" width="275" height="27" />
+    <instance id="41:830" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="41:831" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="41:832" name="Rectangle 14" x="33" y="172" width="330" height="60" />
+    <rounded-rectangle id="41:833" name="Rectangle 15" x="34" y="251" width="330" height="60" />
+    <rounded-rectangle id="41:834" name="Rectangle 17" x="33" y="329" width="330" height="60" />
+    <rounded-rectangle id="41:835" name="Rectangle 7" x="33" y="172" width="330" height="60" />
+    <rounded-rectangle id="41:836" name="Rectangle 16" x="34" y="251" width="330" height="60" />
+    <rounded-rectangle id="41:837" name="Rectangle 18" x="39" y="330" width="330" height="60" />
+    <text id="41:838" name="Monto" x="56" y="192" width="194" height="19" />
+    <text id="41:839" name="Descripción" x="57" y="271" width="194" height="19" />
+    <text id="41:840" name="Cuenta" x="62" y="350" width="194" height="19" />
+    <rounded-rectangle id="41:841" name="Rectangle 3" x="34" y="487" width="330" height="60" />
+    <text id="41:842" name="Agregar" x="164" y="505" width="71" height="24" />
+    <vector id="41:843" name="Vector" x="327" y="510" width="15" height="14.166666030883789" />
+    <vector id="41:851" name="Vector" x="340" y="364" width="5" height="10" />
+  </frame>
+  <frame id="2008:1788" name="consultar" x="15062" y="0" width="402" height="874">
+    <text id="2008:1789" name="Consultar" x="45" y="98" width="275" height="27" />
+    <instance id="2008:1790" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="2008:1791" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="2008:1792" name="Rectangle 14" x="38" y="172" width="330" height="60" />
+    <rounded-rectangle id="2008:1810" name="Rectangle 15" x="38" y="298" width="330" height="60" />
+    <rounded-rectangle id="2008:1814" name="Rectangle 16" x="34" y="406" width="330" height="60" />
+    <rounded-rectangle id="2008:1795" name="Rectangle 7" x="38" y="172" width="330" height="60" />
+    <text id="2008:1798" name="¢700.000" x="61" y="192" width="194" height="19" />
+    <text id="2008:1800" name="Ahora mismo tienes:" x="38" y="267" width="194" height="24" />
+    <text id="2008:1815" name="Te quedarán:" x="38" y="376" width="194" height="24" />
+    <rounded-rectangle id="2008:1801" name="Rectangle 3" x="38" y="592" width="330" height="60" />
+    <text id="2008:1802" name="Crear gasto" x="152" y="610" width="103" height="24" />
+    <vector id="2008:1803" name="Vector" x="331" y="615" width="15" height="14.166666030883789" />
+  </frame>
+  <frame id="2008:1835" name="notificaciones" x="15504" y="0" width="402" height="874">
+    <text id="2008:1836" name="Notificaciones" x="45" y="98" width="275" height="27" />
+    <instance id="2008:1837" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="2008:1838" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <frame id="2008:1853" name="Información" x="68" y="451" width="266" height="82">
+      <text id="2008:1854" name="Etiqueta" x="0" y="0" width="266" height="22" />
+      <text id="2008:1855" name="Detalle" x="0" y="25" width="266" height="54" />
+    </frame>
+    <frame id="2008:1866" name="Group" x="180" y="384" width="41" height="37.81630325317383" />
+  </frame>
+  <frame id="41:976" name="agregar gasto" x="8840" y="0" width="402" height="874">
+    <text id="41:977" name="Agregar gasto" x="45" y="98" width="275" height="27" />
+    <instance id="41:978" name="Button - Liquid Glass - Symbol" x="20" y="20" width="50" height="50" />
+    <vector id="41:979" name="Vector" x="42" y="39" width="6.25" height="12.5" />
+    <rounded-rectangle id="41:980" name="Rectangle 14" x="34" y="172" width="330" height="60" />
+    <rounded-rectangle id="41:981" name="Rectangle 15" x="35" y="251" width="330" height="60" />
+    <rounded-rectangle id="41:982" name="Rectangle 17" x="34" y="329" width="330" height="60" />
+    <rounded-rectangle id="41:997" name="Rectangle 19" x="31" y="407" width="330" height="60" />
+    <rounded-rectangle id="41:983" name="Rectangle 7" x="34" y="172" width="330" height="60" />
+    <rounded-rectangle id="41:984" name="Rectangle 16" x="35" y="251" width="330" height="60" />
+    <rounded-rectangle id="41:985" name="Rectangle 18" x="40" y="330" width="330" height="60" />
+    <rounded-rectangle id="41:998" name="Rectangle 20" x="37" y="408" width="330" height="60" />
+    <text id="41:986" name="Monto" x="57" y="192" width="194" height="19" />
+    <text id="41:987" name="Descripción" x="58" y="271" width="194" height="19" />
+    <text id="41:988" name="Cuenta" x="63" y="350" width="194" height="19" />
+    <text id="41:999" name="Categoría" x="60" y="428" width="194" height="19" />
+    <rounded-rectangle id="41:989" name="Rectangle 3" x="35" y="576" width="330" height="60" />
+    <text id="41:990" name="Agregar" x="165" y="594" width="71" height="24" />
+    <vector id="41:991" name="Vector" x="328" y="599" width="15" height="14.166666030883789" />
+    <vector id="41:992" name="Vector" x="341" y="364" width="5" height="10" />
+    <vector id="41:1000" name="Vector" x="338" y="442" width="5" height="10" />
+  </frame>
+  <rounded-rectangle id="38:680" name="Rectangle 15" x="5782" y="253" width="330" height="60" />
+  <rounded-rectangle id="38:681" name="Rectangle 16" x="5782" y="253" width="330" height="60" />
+  <text id="38:682" name="Monto inicial" x="5803" y="273" width="170" height="19" />
+  <text id="2008:1812" name="¢ 830.000" x="15103" y="314" width="323" height="32" />
+  <text id="2008:1816" name="¢ 130.000" x="15099" y="422" width="323" height="32" />
+  <vector id="2014:1879" name="Vector" x="3835" y="57" width="18" height="19" />
+</canvas>
